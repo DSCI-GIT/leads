@@ -1,0 +1,21 @@
+{
+  "project": "DSCI Lead Intelligence",
+  "generated_at": "2026-07-19",
+  "lead_count": 100,
+  "source_universe": "ACEC-Ontario member directory and first-party company websites",
+  "files": [
+    "index.html",
+    "404.html",
+    "leads.json",
+    "leads.csv",
+    "QA_DEDUPE_SATURATION.md",
+    "README.md",
+    "manifest.json",
+    "robots.txt",
+    ".nojekyll",
+    ".github/workflows/deploy-pages.yml",
+    "scripts/validate_dataset.py",
+    "scripts/sync_embedded_data.py"
+  ],
+  "deployment_target": "GitHub Pages"
+}
