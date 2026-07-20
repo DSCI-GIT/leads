@@ -25,13 +25,12 @@
       "Utilities",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.4sightue.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned utility engineering firm providing SUE, utility coordination, utility design and geophysics.",
-    "why_similar_to_fnesl": "Provides subsurface utility engineering, utility coordination, utility design, geophysics services for municipalities, government, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides subsurface utility engineering, utility coordination, utility design, geophysics services for municipalities, government, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "LiDAR"
     ],
@@ -77,14 +76,12 @@
       "Municipalities",
       "Transportation agencies"
     ],
-    "indigenous_infrastructure_relevance": "Verified",
     "evidence_links": [
       "https://aecom.com/en-ca/",
-      "https://acecontario.ca/member-directory/",
-      "https://aecom.com/en-ca/about-us/indigenous-engagement/"
+      "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure consulting firm serving transportation, buildings, water, energy and environmental markets.",
-    "why_similar_to_fnesl": "Provides infrastructure consulting, engineering, environmental services, program management services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides infrastructure consulting, engineering, environmental services, program management services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure consulting",
       "Environmental services",
@@ -106,7 +103,7 @@
     "fit_score": 50,
     "confidence_score": 100,
     "pipeline_stage": "New",
-    "notes": "Indigenous engagement is explicitly described on AECOM Canada’s website.",
+    "notes": "",
     "last_verified_date": "2026-07-19"
   },
   {
@@ -129,13 +126,12 @@
       "Transportation agencies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.teamcomtech.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure and capital-project consulting practice providing project, program and construction management.",
-    "why_similar_to_fnesl": "Provides program management, project management, construction management, infrastructure advisory services for public sector, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides program management, project management, construction management, infrastructure advisory services for public sector, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction management",
       "Infrastructure advisory"
@@ -183,13 +179,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.ainleygroup.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned engineering and planning firm with infrastructure development capabilities across Ontario.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, geomatics services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, geomatics services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -239,13 +234,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.aplinmartin.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering, planning and land-development consultancy serving municipal and private development projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal infrastructure, land development, project management services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal infrastructure, land development, project management services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure",
@@ -293,13 +287,12 @@
       "Municipalities",
       "Transportation agencies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.arcadis.com/en-ca",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Design, engineering and consultancy firm working across natural and built assets.",
-    "why_similar_to_fnesl": "Provides engineering, environmental consulting, planning, program management services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, environmental consulting, planning, program management services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental consulting",
       "Water"
@@ -342,13 +335,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://agm.on.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario civil engineering consultancy supporting municipal infrastructure and land-development work.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal engineering, land development, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal engineering, land development, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Water resources"
@@ -394,13 +386,12 @@
       "Transportation agencies",
       "Institutional clients"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.arup.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary design and engineering consultancy active in transportation and the built environment.",
-    "why_similar_to_fnesl": "Provides engineering, planning, design, transportation infrastructure services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, planning, design, transportation infrastructure services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Transportation infrastructure"
     ],
@@ -442,13 +433,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://aspireconsulting.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure advisory firm supporting planning, delivery, operations and lifecycle asset management.",
-    "why_similar_to_fnesl": "Provides asset management, infrastructure planning, project delivery, operations and maintenance advisory services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides asset management, infrastructure planning, project delivery, operations and maintenance advisory services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure planning"
     ],
@@ -494,13 +484,12 @@
       "Transportation agencies",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.ae.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Canadian consulting firm providing engineering, environmental, planning and asset-management services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, electrical engineering, mechanical engineering services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, electrical engineering, mechanical engineering services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -547,13 +536,12 @@
       "Transportation agencies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.atkinsrealis.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and project-management firm serving infrastructure, energy and built-environment markets.",
-    "why_similar_to_fnesl": "Provides engineering, project management, infrastructure design, environmental services services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, project management, infrastructure design, environmental services services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure design",
       "Environmental services"
@@ -599,13 +587,12 @@
       "Transportation agencies",
       "Institutional clients"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.bmross.net/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario consulting firm providing civil, environmental, planning, surveying and water-resources services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental engineering, planning, surveying services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental engineering, planning, surveying services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental engineering",
@@ -652,13 +639,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.bagroup.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Transportation planning and engineering consultancy supporting mobility and development projects.",
-    "why_similar_to_fnesl": "Provides transportation planning, transportation engineering, traffic engineering, mobility consulting services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides transportation planning, transportation engineering, traffic engineering, mobility consulting services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "NOT CONFIRMED"
     ],
@@ -704,13 +690,12 @@
       "Mining companies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.bba.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy providing project, environmental and field services for energy, industrial and mining assets.",
-    "why_similar_to_fnesl": "Provides engineering, project management, environmental services, field services services for industrial clients, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, project management, environmental services, field services services for industrial clients, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental services",
       "Energy infrastructure",
@@ -753,13 +738,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://buildwellconsulting.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Construction consulting firm focused on contract administration and field inspection.",
-    "why_similar_to_fnesl": "Provides contract administration, construction inspection, project management services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides contract administration, construction inspection, project management services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction inspection"
     ],
@@ -804,13 +788,12 @@
       "Private sector",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.cbcl.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned multidisciplinary engineering and environmental consulting firm.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental engineering, mechanical engineering, water resources services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental engineering, mechanical engineering, water resources services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental engineering",
@@ -856,13 +839,12 @@
       "Industrial clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.chasolutions.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy supporting power, energy and infrastructure projects across multiple disciplines.",
-    "why_similar_to_fnesl": "Provides civil engineering, electrical engineering, mechanical engineering, process engineering services for energy companies, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, electrical engineering, mechanical engineering, process engineering services for energy companies, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Energy infrastructure"
@@ -911,13 +893,12 @@
       "Mining companies",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.cima.ca/en/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned multidisciplinary engineering firm active in infrastructure, transportation, environment and resources.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geomatics, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geomatics, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -964,13 +945,12 @@
       "Municipalities",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.consoreng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure engineering firm focused on transportation and civil projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, transportation engineering, electrical engineering, infrastructure design services for transportation agencies, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, transportation engineering, electrical engineering, infrastructure design services for transportation agencies, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Infrastructure design"
@@ -1017,13 +997,12 @@
       "Infrastructure owners",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://cambium-inc.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario environmental and geotechnical consultancy with geomatics, building-science and construction-QA services.",
-    "why_similar_to_fnesl": "Provides environmental consulting, geotechnical engineering, building science, construction quality assurance services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides environmental consulting, geotechnical engineering, building science, construction quality assurance services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental consulting",
       "Geotechnical engineering",
@@ -1072,13 +1051,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.aquaforbeech.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Canadian engineering and environmental consultancy focused on water resources, stormwater, watershed planning, ecology and municipal infrastructure.",
-    "why_similar_to_fnesl": "Provides water resources engineering, stormwater management, municipal infrastructure design, environmental assessment services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides water resources engineering, stormwater management, municipal infrastructure design, environmental assessment services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water resources engineering",
       "Stormwater management",
@@ -1117,13 +1095,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://civilarsa.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering consultancy supporting municipal infrastructure and development projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal infrastructure, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal infrastructure, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -1167,13 +1144,12 @@
       "Waste-management operators",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.comcor.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Environmental engineering firm specializing in landfill gas, waste and environmental systems.",
-    "why_similar_to_fnesl": "Provides environmental engineering, landfill gas management, waste management, environmental monitoring services for municipalities, waste-management operators, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides environmental engineering, landfill gas management, waste management, environmental monitoring services for municipalities, waste-management operators, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental engineering",
       "Environmental monitoring"
@@ -1218,13 +1194,12 @@
       "Manufacturers",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://consultec.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned design engineering consultancy focused on heavy-process industrial projects.",
-    "why_similar_to_fnesl": "Provides industrial engineering, process engineering, structural engineering, project management services for industrial clients, manufacturers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides industrial engineering, process engineering, structural engineering, project management services for industrial clients, manufacturers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction support"
     ],
@@ -1267,13 +1242,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.cjdleng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm serving municipal infrastructure and private development clients.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal engineering, water infrastructure, wastewater infrastructure services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal engineering, water infrastructure, wastewater infrastructure services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Water infrastructure",
@@ -1320,13 +1294,12 @@
       "Developers",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.dmwills.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering, environmental and planning consultancy supporting municipal and transportation infrastructure.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, planning, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, planning, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -1377,13 +1350,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.walterfedy.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Integrated Canadian design firm providing architecture, civil and building engineering, surveying, asset management and project delivery.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, mechanical engineering, electrical engineering services for municipalities, building owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, mechanical engineering, electrical engineering services for municipalities, building owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Surveying"
@@ -1427,13 +1399,12 @@
       "Municipalities",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.dsel.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm specializing in land development and municipal servicing.",
-    "why_similar_to_fnesl": "Provides civil engineering, land development, municipal servicing, stormwater management services for developers, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, land development, municipal servicing, stormwater management services for developers, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Stormwater management"
@@ -1477,13 +1448,12 @@
       "Institutional clients",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.davroc.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Building-science and construction consultancy providing assessment and rehabilitation services.",
-    "why_similar_to_fnesl": "Provides building science, construction consulting, building rehabilitation, condition assessment services for building owners, property managers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides building science, construction consulting, building rehabilitation, condition assessment services for building owners, property managers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction consulting",
       "Condition assessment"
@@ -1527,13 +1497,12 @@
       "Developers",
       "Transportation agencies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://deveng.net/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering and surveying firm supporting municipal and development projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, surveying, project management, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, surveying, project management, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Surveying",
@@ -1580,13 +1549,12 @@
       "Private sector",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.dillon.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned consulting firm providing engineering, planning, management and environmental services.",
-    "why_similar_to_fnesl": "Provides engineering, environmental consulting, planning, project management services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, environmental consulting, planning, project management services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental consulting",
       "Infrastructure design"
@@ -1629,13 +1597,12 @@
       "Transportation agencies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://dougdixonassociates.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Bridge and civil engineering consultancy supporting transportation structures and infrastructure owners.",
-    "why_similar_to_fnesl": "Provides bridge engineering, civil engineering, project management, structure assessment services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides bridge engineering, civil engineering, project management, structure assessment services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Bridge engineering",
       "Civil engineering",
@@ -1685,13 +1652,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.exp.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary engineering and consulting firm with civil, environmental, geomatics and water capabilities.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -1742,13 +1708,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.egis-group.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary infrastructure consultancy providing engineering, environmental, planning and surveying services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, surveying, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, surveying, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -1793,13 +1758,12 @@
       "Transportation agencies",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.saferoadseng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Transportation and road-safety engineering consultancy.",
-    "why_similar_to_fnesl": "Provides transportation engineering, road-safety engineering, civil engineering services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides transportation engineering, road-safety engineering, civil engineering services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering"
     ],
@@ -1842,13 +1806,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.envisionconsultants.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Environmental and geotechnical consultancy supporting ecology and infrastructure projects.",
-    "why_similar_to_fnesl": "Provides environmental consulting, geotechnical engineering, ecology, infrastructure consulting services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides environmental consulting, geotechnical engineering, ecology, infrastructure consulting services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental consulting",
       "Geotechnical engineering",
@@ -1896,13 +1859,12 @@
       "Infrastructure owners",
       "Industrial clients"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://englobecorp.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and environmental consultancy with civil, geomatics, surveying and materials capabilities.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, building science, geomatics services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, building science, geomatics services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -1950,13 +1912,12 @@
       "Institutional clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://entuitive.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy providing structural, building-science and construction services.",
-    "why_similar_to_fnesl": "Provides structural engineering, building science, civil engineering, construction engineering services for building owners, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides structural engineering, building science, civil engineering, construction engineering services for building owners, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Construction engineering",
@@ -2000,13 +1961,12 @@
       "Utilities",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.eisgroup.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and project-management firm focused on municipal water and wastewater infrastructure.",
-    "why_similar_to_fnesl": "Provides water engineering, wastewater engineering, municipal infrastructure, project management services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides water engineering, wastewater engineering, municipal infrastructure, project management services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water engineering",
       "Wastewater engineering",
@@ -2054,13 +2014,12 @@
       "Water and wastewater operators",
       "Energy companies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://eramosa.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering firm specializing in electrical, control, SCADA and digital systems for water and energy infrastructure.",
-    "why_similar_to_fnesl": "Provides electrical engineering, instrumentation and controls, scada, it/ot systems services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides electrical engineering, instrumentation and controls, scada, it/ot systems services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water infrastructure"
     ],
@@ -2106,13 +2065,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.geiconsultants.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and environmental consultancy with civil, geotechnical, surveying and water-resources services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -2160,13 +2118,12 @@
       "Infrastructure owners",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.gemtec.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Consulting engineering and science firm focused on geotechnical, environmental, civil and materials work.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, environmental consulting, materials testing, civil engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, environmental consulting, materials testing, civil engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Environmental consulting",
@@ -2214,13 +2171,12 @@
       "Private sector",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.ghd.com/en-ca",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global professional-services firm providing engineering, environmental, planning and water solutions.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -2267,13 +2223,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://gritengineering.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario engineering consultancy providing civil, environmental, geotechnical, management and surveying services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, project management services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, project management services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -2322,14 +2277,13 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.gftinc.com/canada/",
       "https://acecontario.ca/member-directory/",
       "https://www.gftinc.com/news/gannett-fleming-transystems-changes-name-to-gft-and-appoints-mike-orth-as-chief-executive-officer/"
     ],
     "summary": "AEC firm delivering transportation, water, power and building infrastructure solutions.",
-    "why_similar_to_fnesl": "Provides transportation engineering, water infrastructure, power infrastructure, building engineering services for transportation agencies, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides transportation engineering, water infrastructure, power infrastructure, building engineering services for transportation agencies, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water infrastructure",
       "Power infrastructure",
@@ -2372,13 +2326,12 @@
       "Developers",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://geoterre.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Geotechnical and environmental consultancy supporting development and infrastructure projects.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, environmental consulting, construction materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, environmental consulting, construction materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Environmental consulting",
@@ -2420,13 +2373,12 @@
       "Utilities",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.homes-water.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario water-infrastructure consulting firm.",
-    "why_similar_to_fnesl": "Provides water engineering, water infrastructure consulting services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides water engineering, water infrastructure consulting services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water engineering",
       "Water infrastructure consulting"
@@ -2471,13 +2423,12 @@
       "Industrial clients",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.haddadmorgan.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil and structural engineering consultancy serving public, institutional, commercial, residential and industrial clients.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, municipal infrastructure services for government, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, municipal infrastructure services for government, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -2524,13 +2475,12 @@
       "Infrastructure owners",
       "Contractors"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.harboursideengineering.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy focused on heavy civil, bridges, marine structures and construction engineering.",
-    "why_similar_to_fnesl": "Provides heavy civil engineering, bridge engineering, marine engineering, construction engineering services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides heavy civil engineering, bridge engineering, marine engineering, construction engineering services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Heavy civil engineering",
       "Bridge engineering",
@@ -2580,13 +2530,12 @@
       "Industrial clients",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.hatch.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global engineering and project-delivery firm serving infrastructure, energy, mining and industrial markets.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, planning, surveying services for infrastructure owners, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, planning, surveying services for infrastructure owners, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -2631,13 +2580,12 @@
       "Regional governments",
       "Transportation agencies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://hcio.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario firm providing contract administration and inspection for transportation infrastructure.",
-    "why_similar_to_fnesl": "Provides contract administration, construction inspection, transportation infrastructure services for ontario ministry of transportation, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides contract administration, construction inspection, transportation infrastructure services for ontario ministry of transportation, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction inspection",
       "Transportation infrastructure"
@@ -2684,13 +2632,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.insurveying.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Integrated engineering and surveying firm with civil, municipal, geomatics, planning and water-resources services.",
-    "why_similar_to_fnesl": "Provides surveying, geomatics, civil engineering, municipal engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides surveying, geomatics, civil engineering, municipal engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Surveying",
       "Geomatics",
@@ -2734,13 +2681,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://infrastructureunited.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario infrastructure consulting and project-delivery firm.",
-    "why_similar_to_fnesl": "Provides infrastructure consulting, project management, construction management services for infrastructure owners, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides infrastructure consulting, project management, construction management services for infrastructure owners, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure consulting",
       "Construction management"
@@ -2785,13 +2731,12 @@
       "Developers",
       "Utilities"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.cohooneng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm delivering roads, sewers, watermains, stormwater and drinking-water projects.",
-    "why_similar_to_fnesl": "Provides road engineering, sewer engineering, watermain engineering, site grading services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides road engineering, sewer engineering, watermain engineering, site grading services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Watermain engineering",
       "Stormwater management",
@@ -2840,14 +2785,12 @@
       "Mining companies",
       "Energy companies"
     ],
-    "indigenous_infrastructure_relevance": "Mentioned",
     "evidence_links": [
       "https://www.jlrichards.ca/",
-      "https://acecontario.ca/member-directory/",
-      "https://www.jlrichards.ca/about/indigenous-relationships-partnerships/"
+      "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned multidisciplinary firm providing engineering, architecture, planning and project management.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental engineering, planning, architecture services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental engineering, planning, architecture services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental engineering",
@@ -2868,7 +2811,7 @@
     "fit_score": 80,
     "confidence_score": 100,
     "pipeline_stage": "New",
-    "notes": "JLR publishes an Indigenous Relationships & Partnerships program and Indigenous-relations market services.",
+    "notes": "",
     "last_verified_date": "2026-07-19"
   },
   {
@@ -2897,13 +2840,12 @@
       "Energy companies",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.jacobs.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global consulting and engineering firm supporting municipal, transportation, water, mining and energy infrastructure.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, project management, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, project management, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -2950,13 +2892,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.jewelleng.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm focused on municipal infrastructure, renewal, land development and water resources.",
-    "why_similar_to_fnesl": "Provides municipal engineering, land development, infrastructure renewal, civil engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides municipal engineering, land development, infrastructure renewal, civil engineering services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure renewal",
       "Civil engineering",
@@ -3006,13 +2947,12 @@
       "Developers",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.jp2g.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary consultancy delivering municipal servicing, survey, water, wastewater and stormwater projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal servicing, surveying, water resources services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal servicing, surveying, water resources services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Surveying",
@@ -3061,13 +3001,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.ksmart.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering, planning and surveying firm serving municipal and development clients.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, planning, surveying services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, planning, surveying services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -3115,13 +3054,12 @@
       "Industrial clients",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.kgsgroup.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary engineering consultancy supporting infrastructure, water and industrial projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, environmental services, water resources services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, environmental services, water resources services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -3164,13 +3102,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://kihl.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario construction-management firm providing contract administration and field inspection.",
-    "why_similar_to_fnesl": "Provides contract administration, construction management, construction inspection services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides contract administration, construction management, construction inspection services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction management",
       "Construction inspection"
@@ -3213,13 +3150,12 @@
       "Transportation agencies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.kthengineering.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil and structural engineering firm serving transportation and infrastructure projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, transportation infrastructure services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, transportation infrastructure services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Transportation infrastructure"
@@ -3266,13 +3202,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.klohn.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy specializing in geotechnical, environmental and resource-infrastructure work.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, materials engineering services for mining companies, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, materials engineering services for mining companies, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -3321,13 +3256,12 @@
       "Developers",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.lea.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure engineering and planning firm serving transportation, municipal and development projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, transportation planning, infrastructure design, contract administration services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, transportation planning, infrastructure design, contract administration services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Infrastructure design",
@@ -3372,13 +3306,12 @@
       "Developers",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.mnaeng.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Geotechnical, environmental, materials-testing and construction-inspection consultancy.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, environmental consulting, materials testing, construction inspection services for municipalities, provincial government, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, environmental consulting, materials testing, construction inspection services for municipalities, provincial government, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Environmental consulting",
@@ -3426,13 +3359,12 @@
       "Institutional clients",
       "Industrial clients"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.mte85.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Canadian multidisciplinary engineering firm with civil, environmental, surveying, geomatics and infrastructure capabilities.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, environmental engineering, building science services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, environmental engineering, building science services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental engineering",
@@ -3486,13 +3418,12 @@
       "Developers",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.meritech.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Municipal engineering firm providing design, construction administration, survey, planning and water-resources services.",
-    "why_similar_to_fnesl": "Provides municipal engineering, civil engineering, construction administration, planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides municipal engineering, civil engineering, construction administration, planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Construction administration",
@@ -3544,13 +3475,12 @@
       "Utilities",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.mottmac.com/en-ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global engineering, management and development consultancy serving transport, water, energy and built-environment projects.",
-    "why_similar_to_fnesl": "Provides engineering, development consulting, project management, transportation services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, development consulting, project management, transportation services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water"
     ],
@@ -3594,13 +3524,12 @@
       "Infrastructure owners",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.nasiruddineng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy providing construction inspection, geotechnical, geoenvironmental, building-science and materials services.",
-    "why_similar_to_fnesl": "Provides construction inspection, geotechnical engineering, geoenvironmental consulting, building science services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides construction inspection, geotechnical engineering, geoenvironmental consulting, building science services for public sector, private sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction inspection",
       "Geotechnical engineering",
@@ -3647,13 +3576,12 @@
       "Transportation agencies",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.novatech-eng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and planning firm providing civil, transportation, water-resources and project-administration services.",
-    "why_similar_to_fnesl": "Provides civil engineering, transportation engineering, water resources, land-use planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, transportation engineering, water resources, land-use planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Water resources"
@@ -3699,13 +3627,12 @@
       "Institutional clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.oheconsultants.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Environmental and occupational-health consultancy with hazardous-materials, building-science and geotechnical capabilities.",
-    "why_similar_to_fnesl": "Provides environmental consulting, hazardous materials, occupational hygiene, building science services for building owners, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides environmental consulting, hazardous materials, occupational hygiene, building science services for building owners, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental consulting",
       "Geotechnical engineering"
@@ -3751,13 +3678,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.pgconsultants.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Geotechnical consultancy providing civil, structural, hydrogeological, drainage and mining-related services.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, civil engineering, structural engineering, hydrogeology services for developers, mining companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, civil engineering, structural engineering, hydrogeology services for developers, mining companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Civil engineering",
@@ -3805,13 +3731,12 @@
       "Public sector",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.parsons.com/canada/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure engineering and program-management company serving transportation, environmental and water projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, project management, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, project management, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -3857,13 +3782,12 @@
       "Infrastructure owners",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.patrioteng.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy providing geotechnical, geoenvironmental, inspection, materials and building-science services.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, geoenvironmental consulting, construction inspection, materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, geoenvironmental consulting, construction inspection, materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Geoenvironmental consulting",
@@ -3906,13 +3830,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://piotrowskiconsultants.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Northern Ontario consulting engineering firm serving municipal and private infrastructure projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, structural engineering, municipal infrastructure services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, structural engineering, municipal infrastructure services for municipalities, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -3956,13 +3879,12 @@
       "Industrial clients",
       "Utilities"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.repoisson.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering firm focused on municipal and industrial water and wastewater systems.",
-    "why_similar_to_fnesl": "Provides water engineering, wastewater engineering, environmental engineering, mechanical engineering services for municipalities, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides water engineering, wastewater engineering, environmental engineering, mechanical engineering services for municipalities, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water engineering",
       "Wastewater engineering",
@@ -4011,13 +3933,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.rjburnside.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Canadian engineering and environmental consultancy providing infrastructure, planning, design and project-management services.",
-    "why_similar_to_fnesl": "Provides infrastructure engineering, environmental consulting, planning, design services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides infrastructure engineering, environmental consulting, planning, design services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure engineering",
       "Environmental consulting",
@@ -4065,13 +3986,12 @@
       "Transportation agencies",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://rvanderson.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned engineering firm specializing in water, wastewater, transportation and urban infrastructure.",
-    "why_similar_to_fnesl": "Provides water engineering, wastewater engineering, transportation engineering, urban infrastructure services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides water engineering, wastewater engineering, transportation engineering, urban infrastructure services for municipalities, utilities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water engineering",
       "Wastewater engineering",
@@ -4117,13 +4037,12 @@
       "Developers",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.randengineering.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm providing design, project management, contract administration and inspection.",
-    "why_similar_to_fnesl": "Provides civil engineering, project management, infrastructure design, contract administration services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, project management, infrastructure design, contract administration services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Infrastructure design",
@@ -4170,13 +4089,12 @@
       "Institutional clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.rjc.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Structural and building-science consultancy providing restoration, façade and condition-assessment services.",
-    "why_similar_to_fnesl": "Provides structural engineering, building science, restoration, façade engineering services for building owners, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides structural engineering, building science, restoration, façade engineering services for building owners, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Condition assessment"
     ],
@@ -4217,13 +4135,12 @@
       "Municipalities",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://rtgsystems.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering firm supporting utility-infrastructure design and project management.",
-    "why_similar_to_fnesl": "Provides utility infrastructure design, project management, civil engineering services for utilities, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides utility infrastructure design, project management, civil engineering services for utilities, municipalities, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Utility infrastructure design",
       "Civil engineering"
@@ -4268,13 +4185,12 @@
       "Building owners",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.rathco.pro/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering consultancy focused on energy, environmental, district-energy and project-management services.",
-    "why_similar_to_fnesl": "Provides energy engineering, environmental engineering, district energy, project management services for municipalities, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides energy engineering, environmental engineering, district energy, project management services for municipalities, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Environmental engineering"
     ],
@@ -4317,13 +4233,12 @@
       "Institutional clients",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://mcewenconsulting.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Building-science and construction-management consultancy serving owners and property managers.",
-    "why_similar_to_fnesl": "Provides building science, project management, construction management, condition assessment services for building owners, property managers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides building science, project management, construction management, condition assessment services for building owners, property managers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction management",
       "Condition assessment"
@@ -4369,13 +4284,12 @@
       "Public sector",
       "Developers"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.rcii.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned engineering firm providing municipal, civil, water-resources, survey and planning services.",
-    "why_similar_to_fnesl": "Provides civil engineering, project management, surveying, water resources services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, project management, surveying, water resources services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Surveying",
@@ -4422,13 +4336,12 @@
       "Industrial clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.group.sener/en",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and technology company serving transportation, infrastructure and industrial projects.",
-    "why_similar_to_fnesl": "Provides engineering, transportation infrastructure, project management, industrial engineering services for transportation agencies, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, transportation infrastructure, project management, industrial engineering services for transportation agencies, public sector, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Transportation infrastructure"
     ],
@@ -4473,13 +4386,12 @@
       "Developers",
       "Utilities"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.schaeffers.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil engineering firm providing land development, municipal infrastructure, water-resources and water/wastewater services.",
-    "why_similar_to_fnesl": "Provides civil engineering, land development, municipal infrastructure, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, land development, municipal infrastructure, water resources services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure",
@@ -4526,13 +4438,12 @@
       "Infrastructure owners",
       "Mining companies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.shabatesting.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Northern Ontario engineering and testing firm providing geotechnical, municipal, inspection and materials services.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, structural engineering, municipal engineering, construction inspection services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, structural engineering, municipal engineering, construction inspection services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Construction inspection"
@@ -4575,13 +4486,12 @@
       "Local government",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://skiraconsult.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Civil and land-development engineering consultancy serving private and local-government clients.",
-    "why_similar_to_fnesl": "Provides civil engineering, land development, municipal infrastructure services for developers, local government, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, land development, municipal infrastructure services for developers, local government, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -4625,13 +4535,12 @@
       "Industrial clients",
       "Commercial clients"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.spriet.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering and architecture firm serving municipal, provincial, industrial and commercial clients.",
-    "why_similar_to_fnesl": "Provides civil engineering, architecture, municipal infrastructure, industrial engineering services for municipalities, provincial government, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, architecture, municipal infrastructure, industrial engineering services for municipalities, provincial government, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -4681,13 +4590,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "Mentioned",
     "evidence_links": [
       "https://www.stantec.com/en",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global design and consulting firm with broad engineering, environmental, water, survey and planning capabilities.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, water, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, water, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -4709,7 +4617,7 @@
     "fit_score": 90,
     "confidence_score": 100,
     "pipeline_stage": "New",
-    "notes": "Stantec publicly maintains an Indigenous Relations & Partnerships program.",
+    "notes": "",
     "last_verified_date": "2026-07-19"
   },
   {
@@ -4734,13 +4642,12 @@
       "Developers",
       "Transportation agencies"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.tylin.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Infrastructure consultancy providing municipal, land-development, water-resources and transportation services.",
-    "why_similar_to_fnesl": "Provides municipal engineering, land development engineering, water resources engineering, transportation planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides municipal engineering, land development engineering, water resources engineering, transportation planning services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Water resources engineering"
     ],
@@ -4789,13 +4696,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.tulloch.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Multidisciplinary engineering and survey firm serving public and private infrastructure projects across Ontario and Canada.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, planning, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, planning, surveying services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -4847,13 +4753,12 @@
       "Transportation agencies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.tathameng.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Employee-owned multidisciplinary firm providing municipal, transportation, water, wastewater and building engineering.",
-    "why_similar_to_fnesl": "Provides municipal engineering, civil engineering, structural engineering, transportation services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides municipal engineering, civil engineering, structural engineering, transportation services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Water resources",
@@ -4897,13 +4802,12 @@
       "Energy companies",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.tecsar.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering, procurement and construction-management firm serving industrial projects.",
-    "why_similar_to_fnesl": "Provides engineering, procurement, construction management, industrial project delivery services for industrial clients, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides engineering, procurement, construction management, industrial project delivery services for industrial clients, energy companies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Construction management"
     ],
@@ -4946,13 +4850,12 @@
       "Infrastructure owners",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://thurber.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Canadian geotechnical and environmental consultancy with construction-materials testing capabilities.",
-    "why_similar_to_fnesl": "Provides geotechnical engineering, environmental consulting, construction materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides geotechnical engineering, environmental consulting, construction materials testing services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Geotechnical engineering",
       "Environmental consulting",
@@ -4998,13 +4901,12 @@
       "Developers",
       "Public sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.tritoneng.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Community-based civil engineering firm focused on municipal growth and public-infrastructure renewal.",
-    "why_similar_to_fnesl": "Provides civil engineering, municipal infrastructure, infrastructure renewal, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, municipal infrastructure, infrastructure renewal, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure",
@@ -5049,13 +4951,12 @@
       "Developers",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://ucc.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Niagara multidisciplinary firm providing civil engineering and urban planning for municipal and development projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, urban planning, municipal infrastructure, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, urban planning, municipal infrastructure, land development services for municipalities, developers, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Municipal infrastructure"
@@ -5106,13 +5007,12 @@
       "Public sector",
       "Private sector"
     ],
-    "indigenous_infrastructure_relevance": "Mentioned",
     "evidence_links": [
       "https://www.wsp.com/en-ca",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Global professional-services firm providing infrastructure, environmental, water, survey and program-delivery services.",
-    "why_similar_to_fnesl": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, environmental services, geotechnical engineering, planning services for municipalities, transportation agencies, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering",
       "Environmental services",
@@ -5135,7 +5035,7 @@
     "fit_score": 100,
     "confidence_score": 100,
     "pipeline_stage": "New",
-    "notes": "WSP Canada publicly lists Indigenous relations and Indigenous community services.",
+    "notes": "",
     "last_verified_date": "2026-07-19"
   },
   {
@@ -5160,13 +5060,12 @@
       "Municipalities",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.wtinfrastructure.ca/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Ontario infrastructure consulting firm serving communities across southwestern and south-central Ontario.",
-    "why_similar_to_fnesl": "Provides infrastructure consulting, civil engineering services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides infrastructure consulting, civil engineering services for municipalities, infrastructure owners, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Infrastructure consulting",
       "Civil engineering"
@@ -5212,13 +5111,12 @@
       "Industrial clients",
       "Infrastructure owners"
     ],
-    "indigenous_infrastructure_relevance": "NOT CONFIRMED",
     "evidence_links": [
       "https://www.twdepcm.com/",
       "https://acecontario.ca/member-directory/"
     ],
     "summary": "Engineering, procurement and project-delivery firm serving energy and industrial projects.",
-    "why_similar_to_fnesl": "Provides civil engineering, control systems, electrical engineering, mechanical engineering services for energy companies, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
+    "fit_rationale": "Provides civil engineering, control systems, electrical engineering, mechanical engineering services for energy companies, industrial clients, creating overlap with infrastructure-focused drone mapping and inspection work.",
     "drone_lidar_fit_signals": [
       "Civil engineering"
     ],
@@ -5239,5 +5137,2567 @@
     "pipeline_stage": "New",
     "notes": "",
     "last_verified_date": "2026-07-19"
+  },
+  {
+    "id": "on-wave1-kpk-surveying-inc",
+    "company_name": "KPK Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Huntsville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Muskoka",
+      "Parry Sound",
+      "Haliburton"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Boundary surveys",
+      "Plans of subdivision"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://kpksurvey.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, boundary surveys services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, boundary surveys, plans of subdivision services for developers, builders, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://kpksurvey.ca/",
+        "contact_method": "Email: info@KPKsurvey.ca; Phone: 705-788-2701; Website/contact form"
+      }
+    ],
+    "public_email": "info@KPKsurvey.ca",
+    "public_phone": "705-788-2701",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, boundary surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-altimap-land-surveyors",
+    "company_name": "Altimap Land Surveyors",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction survey",
+      "Site and grading plans",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Civil engineers"
+    ],
+    "evidence_links": [
+      "https://altimap.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction survey, site and grading plans services.",
+    "fit_rationale": "Provides topographic surveys, construction survey, site and grading plans, reference plans services for developers, builders, civil engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction survey"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://altimap.ca/",
+        "contact_method": "Email: info@altimap.ca; Phone: 416-990-3001; Website/contact form"
+      }
+    ],
+    "public_email": "info@altimap.ca",
+    "public_phone": "416-990-3001",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction survey, site and grading plans workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-watson-land-surveyors-ltd",
+    "company_name": "Watson Land Surveyors Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Belleville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "South Hastings",
+      "Prince Edward County"
+    ],
+    "primary_services": [
+      "Topographic plans",
+      "Construction layout",
+      "Condominium plans",
+      "Legal boundary surveys"
+    ],
+    "client_types": [
+      "Builders",
+      "Municipalities",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.watsonsurveyors.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic plans, construction layout, condominium plans services.",
+    "fit_rationale": "Provides topographic plans, construction layout, condominium plans, legal boundary surveys services for builders, municipalities, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic plans",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.watsonsurveyors.ca/",
+        "contact_method": "Email: info@watsonsurveyors.ca; Phone: 613-962-9521; Website/contact form"
+      }
+    ],
+    "public_email": "info@watsonsurveyors.ca",
+    "public_phone": "613-962-9521",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic plans, construction layout, condominium plans workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-avant-garde-geomatics",
+    "company_name": "Avant Garde Geomatics",
+    "company_type": "Geomatics",
+    "hq_city": "Kingston",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario",
+      "Northern Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveying and mapping",
+      "3D scanning",
+      "LiDAR",
+      "Drones",
+      "Construction and land development"
+    ],
+    "client_types": [
+      "Developers",
+      "Commercial clients",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://aggeo.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveying and mapping, 3d scanning, lidar services.",
+    "fit_rationale": "Provides topographic surveying and mapping, 3d scanning, lidar, drones services for developers, commercial clients, municipalities, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveying and mapping",
+      "3D scanning",
+      "LiDAR",
+      "Drones",
+      "Construction and land development"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://aggeo.ca/",
+        "contact_method": "Email: info@aggeo.ca; Phone: 613-699-7630; Website/contact form"
+      }
+    ],
+    "public_email": "info@aggeo.ca",
+    "public_phone": "613-699-7630",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveying and mapping, 3d scanning, lidar workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-jaymac-land-surveys-inc",
+    "company_name": "JAYMAC Land Surveys Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Perth",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Topographic plans",
+      "Construction stakeouts",
+      "DTM/TIN models for machine control",
+      "3D LiDAR scanning and mapping",
+      "GIS data collection"
+    ],
+    "client_types": [
+      "Builders",
+      "Construction companies",
+      "Infrastructure companies",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://www.jaymaclandsurveys.com/services"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic plans, construction stakeouts, dtm/tin models for machine control services.",
+    "fit_rationale": "Provides topographic plans, construction stakeouts, dtm/tin models for machine control, 3d lidar scanning and mapping services for builders, construction companies, infrastructure companies, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic plans",
+      "Construction stakeouts",
+      "DTM/TIN models for machine control",
+      "3D LiDAR scanning and mapping"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.jaymaclandsurveys.com/services",
+        "contact_method": "Email: info@jaymaclandsurveys.com; Phone: 613-701-3220; Website/contact form"
+      }
+    ],
+    "public_email": "info@jaymaclandsurveys.com",
+    "public_phone": "613-701-3220",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic plans, construction stakeouts, dtm/tin models for machine control workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-vaughan-land-surveyors",
+    "company_name": "Vaughan Land Surveyors",
+    "company_type": "Geomatics",
+    "hq_city": "Colborne",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Subdivision planning",
+      "GNSS field execution"
+    ],
+    "client_types": [
+      "Developers",
+      "Municipalities",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://www.vaughansurveys.com/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, subdivision planning services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, subdivision planning, gnss field execution services for developers, municipalities, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.vaughansurveys.com/",
+        "contact_method": "Email: info@vaughansurveys.com; Phone: 416-839-1530; Website/contact form"
+      }
+    ],
+    "public_email": "info@vaughansurveys.com",
+    "public_phone": "416-839-1530",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, subdivision planning workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-r-pe-surveying-ltd",
+    "company_name": "R-PE Surveying Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Woodbridge",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "South-Central Ontario"
+    ],
+    "primary_services": [
+      "Construction layout",
+      "Topographic surveys",
+      "Volume determination",
+      "Bathymetric surveys",
+      "Geodetic surveys"
+    ],
+    "client_types": [
+      "Land developers",
+      "Home builders",
+      "Construction companies"
+    ],
+    "evidence_links": [
+      "https://www.r-pe.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering construction layout, topographic surveys, volume determination services.",
+    "fit_rationale": "Provides construction layout, topographic surveys, volume determination, bathymetric surveys services for land developers, home builders, construction companies, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction layout",
+      "Topographic surveys",
+      "Volume determination"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.r-pe.ca/",
+        "contact_method": "Email: info@r-pe.ca; Phone: 416-635-5000; Website/contact form"
+      }
+    ],
+    "public_email": "info@r-pe.ca",
+    "public_phone": "416-635-5000",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for construction layout, topographic surveys, volume determination workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-geoplan-surveying-ltd",
+    "company_name": "GEOPLAN Surveying Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction surveys",
+      "Subdivision plans",
+      "Cadastral surveys"
+    ],
+    "client_types": [
+      "Engineering firms",
+      "Architects",
+      "Builders",
+      "Development companies"
+    ],
+    "evidence_links": [
+      "https://geoplansurveying.com/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction surveys, subdivision plans services.",
+    "fit_rationale": "Provides topographic surveys, construction surveys, subdivision plans, cadastral surveys services for engineering firms, architects, builders, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://geoplansurveying.com/",
+        "contact_method": "Email: info@geoplansurveying.com; Phone: 647-479-4649; Website/contact form"
+      }
+    ],
+    "public_email": "info@geoplansurveying.com",
+    "public_phone": "647-479-4649",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction surveys, subdivision plans workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-bishop-geyer-surveying-inc",
+    "company_name": "Bishop Geyer Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Haliburton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Haliburton",
+      "North Hastings",
+      "Northern Kawartha Lakes"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction and grading",
+      "3-D laser scanning",
+      "GPS surveys",
+      "As-built surveys"
+    ],
+    "client_types": [
+      "Residential clients",
+      "Commercial clients",
+      "Industrial clients"
+    ],
+    "evidence_links": [
+      "https://www.bgsurveys.ca/services"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction and grading, 3-d laser scanning services.",
+    "fit_rationale": "Provides topographic surveys, construction and grading, 3-d laser scanning, gps surveys services for residential clients, commercial clients, industrial clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction and grading",
+      "As-built surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.bgsurveys.ca/services",
+        "contact_method": "Email: info@bgsurveys.ca; Phone: 705-457-2811; Website/contact form"
+      }
+    ],
+    "public_email": "info@bgsurveys.ca",
+    "public_phone": "705-457-2811",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction and grading, 3-d laser scanning workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-schultz-barrette-surveying",
+    "company_name": "Schultz Barrette Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Hawkesbury",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "GNSS surveys",
+      "Terrestrial LiDAR",
+      "Drone technology",
+      "Construction planning"
+    ],
+    "client_types": [
+      "Residential developers",
+      "Commercial developers",
+      "Industrial developers"
+    ],
+    "evidence_links": [
+      "https://sbsurveying1.althosted.com/services/topographic-surveys"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, gnss surveys, terrestrial lidar services.",
+    "fit_rationale": "Provides topographic surveys, gnss surveys, terrestrial lidar, drone technology services for residential developers, commercial developers, industrial developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Terrestrial LiDAR",
+      "Drone technology",
+      "Construction planning"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://sbsurveying1.althosted.com/services/topographic-surveys",
+        "contact_method": "Email: info@sbsurveying.ca; Phone: 613-632-7611; Website/contact form"
+      }
+    ],
+    "public_email": "info@sbsurveying.ca",
+    "public_phone": "613-632-7611",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, gnss surveys, terrestrial lidar workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-hjv",
+    "company_name": "HJV",
+    "company_type": "Geomatics",
+    "hq_city": "Vaughan",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Southern Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Control surveys",
+      "Roof surveys",
+      "Government agency surveying"
+    ],
+    "client_types": [
+      "Construction companies",
+      "Government agencies",
+      "Engineers",
+      "Architects"
+    ],
+    "evidence_links": [
+      "https://www.hjv-ols.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, control surveys services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, control surveys, roof surveys services for construction companies, government agencies, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout",
+      "Control surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.hjv-ols.ca/",
+        "contact_method": "Email: hjv@hjv-ols.ca; Phone: 905-660-4000; Website/contact form"
+      }
+    ],
+    "public_email": "hjv@hjv-ols.ca",
+    "public_phone": "905-660-4000",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, control surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-better-measures",
+    "company_name": "Better Measures",
+    "company_type": "Geomatics",
+    "hq_city": "Flesherton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Topographic and site plans",
+      "Construction layout",
+      "Bathymetric survey",
+      "Volume calculations",
+      "Data preparation"
+    ],
+    "client_types": [
+      "Contractors",
+      "Engineering teams",
+      "Construction clients"
+    ],
+    "evidence_links": [
+      "https://bettermeasures.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic and site plans, construction layout, bathymetric survey services.",
+    "fit_rationale": "Provides topographic and site plans, construction layout, bathymetric survey, volume calculations services for contractors, engineering teams, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic and site plans",
+      "Construction layout",
+      "Volume calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://bettermeasures.ca/",
+        "contact_method": "Email: bmbetts@everus.ca; Phone: 519-372-5855; Website/contact form"
+      }
+    ],
+    "public_email": "bmbetts@everus.ca",
+    "public_phone": "519-372-5855",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic and site plans, construction layout, bathymetric survey workloads.",
+    "fit_score": 90,
+    "confidence_score": 85,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-sbm-geomatics",
+    "company_name": "SBM Geomatics",
+    "company_type": "Geomatics",
+    "hq_city": "London",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Southwestern Ontario"
+    ],
+    "primary_services": [
+      "Field engineering",
+      "Topographical plans",
+      "Volume calculations",
+      "LiDAR feature extraction",
+      "Control networks"
+    ],
+    "client_types": [
+      "Public sector",
+      "Private sector",
+      "Design teams"
+    ],
+    "evidence_links": [
+      "https://www.sbmgeomatics.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering field engineering, topographical plans, volume calculations services.",
+    "fit_rationale": "Provides field engineering, topographical plans, volume calculations, lidar feature extraction services for public sector, private sector, design teams, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographical plans",
+      "Volume calculations",
+      "LiDAR feature extraction",
+      "Control networks"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.sbmgeomatics.ca/",
+        "contact_method": "Email: info@sbmgeomatics.ca; Phone: 519-914-1134; Website/contact form"
+      }
+    ],
+    "public_email": "info@sbmgeomatics.ca",
+    "public_phone": "519-914-1134",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for field engineering, topographical plans, volume calculations workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-f-s-surveying-inc",
+    "company_name": "F.S. Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Engineering surveys",
+      "As-built surveys",
+      "Topographic surveys",
+      "Construction layout",
+      "Monitoring surveys"
+    ],
+    "client_types": [
+      "Public sector",
+      "Private sector",
+      "Industrial clients"
+    ],
+    "evidence_links": [
+      "https://www.fssurveying.com/about"
+    ],
+    "summary": "Surveying and geomatics firm offering engineering surveys, as-built surveys, topographic surveys services.",
+    "fit_rationale": "Provides engineering surveys, as-built surveys, topographic surveys, construction layout services for public sector, private sector, industrial clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "As-built surveys",
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.fssurveying.com/about",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for engineering surveys, as-built surveys, topographic surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-speight-van-nostrand-gibson-limited",
+    "company_name": "Speight, van Nostrand & Gibson Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Toronto",
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic and engineering surveys",
+      "Construction layout",
+      "GIS",
+      "3D scanning and modelling",
+      "Monitoring and control surveys"
+    ],
+    "client_types": [
+      "Developers",
+      "Engineers",
+      "Construction clients"
+    ],
+    "evidence_links": [
+      "https://svng.on.ca/services.html"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic and engineering surveys, construction layout, gis services.",
+    "fit_rationale": "Provides topographic and engineering surveys, construction layout, gis, 3d scanning and modelling services for developers, engineers, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic and engineering surveys",
+      "Construction layout",
+      "3D scanning and modelling",
+      "Monitoring and control surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://svng.on.ca/services.html",
+        "contact_method": "Email: toronto@svng.on.ca; Phone: 416-749-7864; Website/contact form"
+      }
+    ],
+    "public_email": "toronto@svng.on.ca",
+    "public_phone": "416-749-7864",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic and engineering surveys, construction layout, gis workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-mte-consultants-surveying",
+    "company_name": "MTE Consultants - Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Kitchener",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Kitchener",
+      "London",
+      "Burlington",
+      "Toronto"
+    ],
+    "primary_services": [
+      "Topographical surveys",
+      "Construction surveys",
+      "Bridge and culvert layout",
+      "3D surface modelling",
+      "Volume calculations"
+    ],
+    "client_types": [
+      "Construction contractors",
+      "Public sector",
+      "Private developers"
+    ],
+    "evidence_links": [
+      "https://mte85.com/services/surveys/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographical surveys, construction surveys, bridge and culvert layout services.",
+    "fit_rationale": "Provides topographical surveys, construction surveys, bridge and culvert layout, 3d surface modelling services for construction contractors, public sector, private developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographical surveys",
+      "Construction surveys",
+      "3D surface modelling",
+      "Volume calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://mte85.com/services/surveys/",
+        "contact_method": "Phone: 519-743-6500; Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "519-743-6500",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographical surveys, construction surveys, bridge and culvert layout workloads.",
+    "fit_score": 90,
+    "confidence_score": 90,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-farley-smith-denis-surveying-ltd",
+    "company_name": "Farley, Smith & Denis Surveying Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Ottawa",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ottawa",
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout and as-built surveys",
+      "Reference plans",
+      "Real property reports"
+    ],
+    "client_types": [
+      "Residential clients",
+      "Commercial clients",
+      "Institutional clients",
+      "Government clients"
+    ],
+    "evidence_links": [
+      "https://fsdsurveys.ca/our-services"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout and as-built surveys, reference plans services.",
+    "fit_rationale": "Provides topographic surveys, construction layout and as-built surveys, reference plans, real property reports services for residential clients, commercial clients, institutional clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout and as-built surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://fsdsurveys.ca/our-services",
+        "contact_method": "Email: info@fsdsurveys.ca; Phone: 613-727-8226; Website/contact form"
+      }
+    ],
+    "public_email": "info@fsdsurveys.ca",
+    "public_phone": "613-727-8226",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout and as-built surveys, reference plans workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-protect-your-boundaries-inc",
+    "company_name": "Protect Your Boundaries Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Existing conditions surveys",
+      "Construction layout",
+      "As-constructed surveys",
+      "Commercial property surveys"
+    ],
+    "client_types": [
+      "Commercial property owners",
+      "Developers",
+      "Legal and real estate professionals"
+    ],
+    "evidence_links": [
+      "https://www.protectyourboundaries.ca/commercial-property-survey.html"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, existing conditions surveys, construction layout services.",
+    "fit_rationale": "Provides topographic surveys, existing conditions surveys, construction layout, as-constructed surveys services for commercial property owners, developers, legal and real estate professionals, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.protectyourboundaries.ca/commercial-property-survey.html",
+        "contact_method": "Email: info@ProtectYourBoundaries.ca; Phone: 877-392-2662; Website/contact form"
+      }
+    ],
+    "public_email": "info@ProtectYourBoundaries.ca",
+    "public_phone": "877-392-2662",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, existing conditions surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-promap-surveying",
+    "company_name": "ProMap Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Richmond Hill",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Site and grading plans",
+      "3D laser scanning",
+      "Monitoring"
+    ],
+    "client_types": [
+      "Property owners",
+      "Builders",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://promapsurveying.com/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, site and grading plans services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, site and grading plans, 3d laser scanning services for property owners, builders, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout",
+      "3D laser scanning"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://promapsurveying.com/",
+        "contact_method": "Phone: 289-637-7775; Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "289-637-7775",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, site and grading plans workloads.",
+    "fit_score": 90,
+    "confidence_score": 85,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-geosolutions-surveying-engineering",
+    "company_name": "GeoSolutions Surveying & Engineering",
+    "company_type": "Geomatics",
+    "hq_city": "Whitby",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Durham Region"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Drone mapping",
+      "LiDAR",
+      "As-built surveys"
+    ],
+    "client_types": [
+      "Engineers",
+      "Architects",
+      "Contractors",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.geosolutionsurveying.com/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, drone mapping services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, drone mapping, lidar services for engineers, architects, contractors, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout",
+      "Drone mapping",
+      "LiDAR",
+      "As-built surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.geosolutionsurveying.com/",
+        "contact_method": "Email: info@geosolutionsurveying.com; Phone: 905-429-0310; Website/contact form"
+      }
+    ],
+    "public_email": "info@geosolutionsurveying.com",
+    "public_phone": "905-429-0310",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, drone mapping workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-grad-surveying",
+    "company_name": "Grad Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographical surveys",
+      "Construction layout surveys",
+      "As-built surveys",
+      "Geodetic control surveys",
+      "Volume calculations"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://www.gradsurveying.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographical surveys, construction layout surveys, as-built surveys services.",
+    "fit_rationale": "Provides topographical surveys, construction layout surveys, as-built surveys, geodetic control surveys services for developers, builders, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographical surveys",
+      "Construction layout surveys",
+      "As-built surveys",
+      "Geodetic control surveys",
+      "Volume calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.gradsurveying.ca/",
+        "contact_method": "Email: info@gradsurveying.ca; Phone: 647-518-1362; Website/contact form"
+      }
+    ],
+    "public_email": "info@gradsurveying.ca",
+    "public_phone": "647-518-1362",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographical surveys, construction layout surveys, as-built surveys workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-paya-surveying",
+    "company_name": "Paya Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Markham",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Construction layout",
+      "Topographic mapping",
+      "Drone/UAV surveying",
+      "LiDAR mapping",
+      "3D scanning"
+    ],
+    "client_types": [
+      "Engineers",
+      "Builders",
+      "Architects",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://payasurveying.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering construction layout, topographic mapping, drone/uav surveying services.",
+    "fit_rationale": "Provides construction layout, topographic mapping, drone/uav surveying, lidar mapping services for engineers, builders, architects, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction layout",
+      "Topographic mapping",
+      "Drone/UAV surveying",
+      "LiDAR mapping",
+      "3D scanning"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://payasurveying.ca/",
+        "contact_method": "Email: info@payasurveying.ca; Phone: 289-906-4449; Website/contact form"
+      }
+    ],
+    "public_email": "info@payasurveying.ca",
+    "public_phone": "289-906-4449",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for construction layout, topographic mapping, drone/uav surveying workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-topotec-inc",
+    "company_name": "Topotec Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic and engineering surveys",
+      "Construction surveying",
+      "As-built surveys",
+      "LiDAR surveys",
+      "Drone photogrammetry"
+    ],
+    "client_types": [
+      "Property owners",
+      "Developers",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.topotec.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic and engineering surveys, construction surveying, as-built surveys services.",
+    "fit_rationale": "Provides topographic and engineering surveys, construction surveying, as-built surveys, lidar surveys services for property owners, developers, contractors, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic and engineering surveys",
+      "Construction surveying",
+      "As-built surveys",
+      "LiDAR surveys",
+      "Drone photogrammetry"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.topotec.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic and engineering surveys, construction surveying, as-built surveys workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-pelto-consulting",
+    "company_name": "Pelto Consulting",
+    "company_type": "Geomatics",
+    "hq_city": "Lively",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Northern Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Industrial survey services",
+      "LiDAR scanning",
+      "3D mapping",
+      "UAV drone surveys",
+      "Volumetric calculations"
+    ],
+    "client_types": [
+      "Industrial clients",
+      "Mining companies",
+      "Construction clients",
+      "Engineering firms"
+    ],
+    "evidence_links": [
+      "https://pelto.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering industrial survey services, lidar scanning, 3d mapping services.",
+    "fit_rationale": "Provides industrial survey services, lidar scanning, 3d mapping, uav drone surveys services for industrial clients, mining companies, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "LiDAR scanning",
+      "3D mapping",
+      "UAV drone surveys",
+      "Volumetric calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://pelto.ca/",
+        "contact_method": "Email: keith@pelto.ca; Phone: 705-929-2295; Website/contact form"
+      }
+    ],
+    "public_email": "keith@pelto.ca",
+    "public_phone": "705-929-2295",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for industrial survey services, lidar scanning, 3d mapping workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-stratus-aerial-geomatics",
+    "company_name": "Stratus Aerial Geomatics",
+    "company_type": "Geomatics",
+    "hq_city": "Vaughan",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Drone mapping",
+      "LiDAR survey",
+      "Topographic surveys",
+      "Machine control files",
+      "GPS data preparation"
+    ],
+    "client_types": [
+      "Construction teams",
+      "Engineering teams",
+      "Earthworks contractors"
+    ],
+    "evidence_links": [
+      "https://stratusgeomatics.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering drone mapping, lidar survey, topographic surveys services.",
+    "fit_rationale": "Provides drone mapping, lidar survey, topographic surveys, machine control files services for construction teams, engineering teams, earthworks contractors, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Drone mapping",
+      "LiDAR survey",
+      "Topographic surveys",
+      "Machine control files"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://stratusgeomatics.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for drone mapping, lidar survey, topographic surveys workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-ontario-drone-survey",
+    "company_name": "Ontario Drone Survey",
+    "company_type": "Geomatics",
+    "hq_city": "Etobicoke",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Drone surveying",
+      "Topographic mapping",
+      "Volumetric calculations",
+      "Thermal roof inspections",
+      "3D renders"
+    ],
+    "client_types": [
+      "Construction clients",
+      "Agriculture clients",
+      "Industrial roofing clients"
+    ],
+    "evidence_links": [
+      "https://ontariodronesurvey.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering drone surveying, topographic mapping, volumetric calculations services.",
+    "fit_rationale": "Provides drone surveying, topographic mapping, volumetric calculations, thermal roof inspections services for construction clients, agriculture clients, industrial roofing clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Drone surveying",
+      "Topographic mapping",
+      "Volumetric calculations",
+      "3D renders"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://ontariodronesurvey.ca/",
+        "contact_method": "Email: ontariodronesurvey@gmail.com; Phone: 705-816-5352; Website/contact form"
+      }
+    ],
+    "public_email": "ontariodronesurvey@gmail.com",
+    "public_phone": "705-816-5352",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for drone surveying, topographic mapping, volumetric calculations workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-elev8-visions",
+    "company_name": "Elev8 Visions",
+    "company_type": "Geomatics",
+    "hq_city": "Ontario",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Drone survey services",
+      "Topographic surveys",
+      "Aerial LiDAR surveys",
+      "Volumetric calculations",
+      "Orthomosaics"
+    ],
+    "client_types": [
+      "Construction clients",
+      "Aggregates",
+      "Earthworks clients"
+    ],
+    "evidence_links": [
+      "https://www.elev8visions.com/drone-survey-services"
+    ],
+    "summary": "Surveying and geomatics firm offering drone survey services, topographic surveys, aerial lidar surveys services.",
+    "fit_rationale": "Provides drone survey services, topographic surveys, aerial lidar surveys, volumetric calculations services for construction clients, aggregates, earthworks clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Drone survey services",
+      "Topographic surveys",
+      "Aerial LiDAR surveys",
+      "Volumetric calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.elev8visions.com/drone-survey-services",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for drone survey services, topographic surveys, aerial lidar surveys workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-fairhall-moffatt-woodland-limited",
+    "company_name": "Fairhall, Moffatt & Woodland Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Ottawa",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ottawa",
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Engineers",
+      "Municipal clients"
+    ],
+    "evidence_links": [
+      "https://www.fmw.on.ca"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, engineers, municipal clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.fmw.on.ca",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-ivan-b-wallace-ols-ltd",
+    "company_name": "Ivan B Wallace OLS Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Bowmanville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Durham Region",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Municipal clients"
+    ],
+    "evidence_links": [
+      "https://www.ibwsurveyors.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, builders, municipal clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.ibwsurveyors.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-mackay-mackay-peters-limited",
+    "company_name": "MacKay MacKay & Peters Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Burlington",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Halton",
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Engineers"
+    ],
+    "evidence_links": [
+      "https://www.mmplimited.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, builders, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.mmplimited.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-rivacore",
+    "company_name": "RivaCore",
+    "company_type": "Geomatics",
+    "hq_city": "Brampton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Geomatics",
+      "Mapping",
+      "Site data services"
+    ],
+    "client_types": [
+      "Construction clients",
+      "Engineering teams",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.rivacore.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, geomatics, mapping services.",
+    "fit_rationale": "Provides land surveying, geomatics, mapping, site data services services for construction clients, engineering teams, infrastructure owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Mapping"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.rivacore.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, geomatics, mapping workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-surveyors-on-site-inc",
+    "company_name": "Surveyors On Site Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Windsor",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Windsor",
+      "Southwestern Ontario"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Construction layout",
+      "Topographic surveys",
+      "Site survey support"
+    ],
+    "client_types": [
+      "Builders",
+      "Developers",
+      "Construction clients"
+    ],
+    "evidence_links": [
+      "http://www.surveyorsonsite.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, construction layout, topographic surveys services.",
+    "fit_rationale": "Provides land surveying, construction layout, topographic surveys, site survey support services for builders, developers, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction layout",
+      "Topographic surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.surveyorsonsite.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, construction layout, topographic surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-van-harten-surveying-inc",
+    "company_name": "Van Harten Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Guelph",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Guelph",
+      "Waterloo Region",
+      "Wellington County"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Survey records"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Municipal clients"
+    ],
+    "evidence_links": [
+      "https://www.vanharten.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, survey records services for developers, builders, municipal clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.vanharten.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-j-d-barnes-limited",
+    "company_name": "J.D. Barnes Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Markham",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Aerial mapping",
+      "GIS",
+      "Construction layout",
+      "Topographic surveys"
+    ],
+    "client_types": [
+      "Developers",
+      "Municipal clients",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.jdbarnes.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, aerial mapping, gis services.",
+    "fit_rationale": "Provides land surveying, aerial mapping, gis, construction layout services for developers, municipal clients, infrastructure owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Aerial mapping",
+      "Construction layout",
+      "Topographic surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.jdbarnes.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, aerial mapping, gis workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-a-t-mclaren-limited",
+    "company_name": "A.T. McLaren Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Ontario land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Engineers"
+    ],
+    "evidence_links": [
+      "https://www.atmclaren.com"
+    ],
+    "summary": "Surveying and geomatics firm offering ontario land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides ontario land surveying, topographic surveys, construction layout, reference plans services for developers, builders, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.atmclaren.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for ontario land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-callon-dietz-inc",
+    "company_name": "Callon Dietz Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "London",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Geomatics",
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "client_types": [
+      "Developers",
+      "Public sector",
+      "Private sector"
+    ],
+    "evidence_links": [
+      "https://callondietz.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, geomatics, topographic surveys services.",
+    "fit_rationale": "Provides land surveying, geomatics, topographic surveys, construction layout services for developers, public sector, private sector, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://callondietz.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, geomatics, topographic surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-coote-hiley-jemmett-limited",
+    "company_name": "Coote Hiley Jemmett Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Engineers",
+      "Legal professionals"
+    ],
+    "evidence_links": [
+      "https://www.chjsurveyors.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, engineers, legal professionals, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.chjsurveyors.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-krcmar-surveyors-ltd",
+    "company_name": "Krcmar Surveyors Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Thornhill",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Construction surveying",
+      "Land surveying",
+      "Topographic surveys",
+      "3D laser scanning",
+      "Control surveys"
+    ],
+    "client_types": [
+      "Construction clients",
+      "Developers",
+      "Engineers"
+    ],
+    "evidence_links": [
+      "https://www.krcmar.ca"
+    ],
+    "summary": "Surveying and geomatics firm offering construction surveying, land surveying, topographic surveys services.",
+    "fit_rationale": "Provides construction surveying, land surveying, topographic surveys, 3d laser scanning services for construction clients, developers, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction surveying",
+      "Topographic surveys",
+      "3D laser scanning",
+      "Control surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.krcmar.ca",
+        "contact_method": "Email: info@krcmar.ca; Phone: 905-738-0053; Website/contact form"
+      }
+    ],
+    "public_email": "info@krcmar.ca",
+    "public_phone": "905-738-0053",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for construction surveying, land surveying, topographic surveys workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-alex-marton-ltd",
+    "company_name": "Alex Marton Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Concord",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout surveys",
+      "Volume calculations",
+      "GPS surveys",
+      "3D LiDAR scanning"
+    ],
+    "client_types": [
+      "Government agencies",
+      "Builders",
+      "Engineers",
+      "Architects"
+    ],
+    "evidence_links": [
+      "http://www.amsurveying.ca"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout surveys, volume calculations services.",
+    "fit_rationale": "Provides topographic surveys, construction layout surveys, volume calculations, gps surveys services for government agencies, builders, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout surveys",
+      "Volume calculations",
+      "3D LiDAR scanning"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.amsurveying.ca",
+        "contact_method": "Email: alex@amsurveying.ca; Phone: 905-879-9889; Website/contact form"
+      }
+    ],
+    "public_email": "alex@amsurveying.ca",
+    "public_phone": "905-879-9889",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout surveys, volume calculations workloads.",
+    "fit_score": 90,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-tarasick-mcmillan-kubicki-limited",
+    "company_name": "Tarasick McMillan Kubicki Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Mississauga",
+      "Greater Toronto and Hamilton Area"
+    ],
+    "primary_services": [
+      "Topographical plans",
+      "Site grading plans",
+      "Control surveying",
+      "Construction layout",
+      "Volume calculations"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Engineers"
+    ],
+    "evidence_links": [
+      "http://www.tmksurveyors.com"
+    ],
+    "summary": "Surveying and geomatics firm offering topographical plans, site grading plans, control surveying services.",
+    "fit_rationale": "Provides topographical plans, site grading plans, control surveying, construction layout services for developers, builders, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographical plans",
+      "Control surveying",
+      "Construction layout",
+      "Volume calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.tmksurveyors.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographical plans, site grading plans, control surveying workloads.",
+    "fit_score": 90,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-lejan-land-surveying-inc",
+    "company_name": "Lejan Land Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Hamilton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Hamilton",
+      "Burlington",
+      "Oakville",
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Engineering surveys",
+      "Topographic surveys",
+      "Construction layout",
+      "DTM",
+      "Volume calculations"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Engineering clients"
+    ],
+    "evidence_links": [
+      "https://www.lejansurveying.ca/"
+    ],
+    "summary": "Surveying and geomatics firm offering engineering surveys, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides engineering surveys, topographic surveys, construction layout, dtm services for developers, builders, engineering clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout",
+      "Volume calculations"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.lejansurveying.ca/",
+        "contact_method": "Phone: 905-643-6131; Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "905-643-6131",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for engineering surveys, topographic surveys, construction layout workloads.",
+    "fit_score": 90,
+    "confidence_score": 90,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-hopkins-chitty-land-surveyors-inc",
+    "company_name": "Hopkins Chitty Land Surveyors Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Kingston",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Kingston",
+      "Brockville",
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction layout",
+      "Robotic total station surveys",
+      "GPS surveys",
+      "Digital land survey information"
+    ],
+    "client_types": [
+      "Builders",
+      "Architects",
+      "Engineers",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://www.hopkinschitty.com/"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction layout, robotic total station surveys services.",
+    "fit_rationale": "Provides topographic surveys, construction layout, robotic total station surveys, gps surveys services for builders, architects, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.hopkinschitty.com/",
+        "contact_method": "Email: info@hopkinschitty.com; Phone: 613-384-9266; Website/contact form"
+      }
+    ],
+    "public_email": "info@hopkinschitty.com",
+    "public_phone": "613-384-9266",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction layout, robotic total station surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-kerr-potvin-inc",
+    "company_name": "Kerr & Potvin Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Carleton Place",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Topographic and site detail surveys",
+      "Culvert and bridge surveys",
+      "Hydrographic surveys",
+      "Public works surveys"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Public works departments",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://www.kpsurveyors.com/municipalities"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic and site detail surveys, culvert and bridge surveys, hydrographic surveys services.",
+    "fit_rationale": "Provides topographic and site detail surveys, culvert and bridge surveys, hydrographic surveys, public works surveys services for municipalities, public works departments, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic and site detail surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.kpsurveyors.com/municipalities",
+        "contact_method": "Email: info@kpsurveyors.com; Phone: 613-412-4222; Website/contact form"
+      }
+    ],
+    "public_email": "info@kpsurveyors.com",
+    "public_phone": "613-412-4222",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic and site detail surveys, culvert and bridge surveys, hydrographic surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-becker-starcevic-ltd",
+    "company_name": "Becker & Starcevic Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Ontario",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Boundary surveys",
+      "Topographic surveys",
+      "Construction staking",
+      "Grading plans",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Property owners",
+      "Construction professionals",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://becker-starcevic.ca/resources-and-faq"
+    ],
+    "summary": "Surveying and geomatics firm offering boundary surveys, topographic surveys, construction staking services.",
+    "fit_rationale": "Provides boundary surveys, topographic surveys, construction staking, grading plans services for property owners, construction professionals, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction staking"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://becker-starcevic.ca/resources-and-faq",
+        "contact_method": "Email: info@becker-starcevic.ca; Website/contact form"
+      }
+    ],
+    "public_email": "info@becker-starcevic.ca",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for boundary surveys, topographic surveys, construction staking workloads.",
+    "fit_score": 80,
+    "confidence_score": 85,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-rouse-surveyors-inc",
+    "company_name": "Rouse Surveyors Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Construction layout",
+      "Rail and transit surveys",
+      "3D laser scanning",
+      "Monitoring surveys",
+      "Drone surveying"
+    ],
+    "client_types": [
+      "Contractors",
+      "Engineers",
+      "Developers",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "http://www.rousesurveyors.com"
+    ],
+    "summary": "Surveying and geomatics firm offering construction layout, rail and transit surveys, 3d laser scanning services.",
+    "fit_rationale": "Provides construction layout, rail and transit surveys, 3d laser scanning, monitoring surveys services for contractors, engineers, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction layout",
+      "3D laser scanning",
+      "Drone surveying"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.rousesurveyors.com",
+        "contact_method": "Email: info@rousesurveyors.com; Website/contact form"
+      }
+    ],
+    "public_email": "info@rousesurveyors.com",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for construction layout, rail and transit surveys, 3d laser scanning workloads.",
+    "fit_score": 90,
+    "confidence_score": 85,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-young-young-surveying",
+    "company_name": "Young & Young Surveying",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Engineers"
+    ],
+    "evidence_links": [
+      "https://www.youngandyoungsurveying.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, builders, engineers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.youngandyoungsurveying.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 65,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-avanti-surveying-inc",
+    "company_name": "Avanti Surveying Inc.",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Construction surveying",
+      "Topographic surveys",
+      "Site plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Construction clients"
+    ],
+    "evidence_links": [
+      "https://www.avantisurveying.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, construction surveying, topographic surveys services.",
+    "fit_rationale": "Provides land surveying, construction surveying, topographic surveys, site plans services for developers, builders, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Construction surveying",
+      "Topographic surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.avantisurveying.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, construction surveying, topographic surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 65,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-y-zhang-surveying-limited",
+    "company_name": "Y. Zhang Surveying Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://www.yzhangsurveying.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, builders, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.yzhangsurveying.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 65,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-monument-urso-surveying-ltd",
+    "company_name": "Monument-Urso Surveying Ltd.",
+    "company_type": "Geomatics",
+    "hq_city": "Ottawa",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ottawa",
+      "Sault Ste. Marie"
+    ],
+    "primary_services": [
+      "Topographic surveys",
+      "Construction surveys",
+      "Legal boundary surveys",
+      "Property surveys"
+    ],
+    "client_types": [
+      "Property owners",
+      "Construction clients",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.monument-urso.ca/faqs"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic surveys, construction surveys, legal boundary surveys services.",
+    "fit_rationale": "Provides topographic surveys, construction surveys, legal boundary surveys, property surveys services for property owners, construction clients, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction surveys"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.monument-urso.ca/faqs",
+        "contact_method": "Email: info@monument-urso.ca; Phone: 613-800-1583; Website/contact form"
+      }
+    ],
+    "public_email": "info@monument-urso.ca",
+    "public_phone": "613-800-1583",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic surveys, construction surveys, legal boundary surveys workloads.",
+    "fit_score": 80,
+    "confidence_score": 100,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-groundpulse",
+    "company_name": "GroundPulse",
+    "company_type": "Geomatics",
+    "hq_city": "Ontario",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Topographic site surveys",
+      "Construction layout and staking",
+      "Legal survey coordination",
+      "Utility locating integration"
+    ],
+    "client_types": [
+      "Contractors",
+      "Excavators",
+      "Developers",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://groundpulse.ca/capabilities"
+    ],
+    "summary": "Surveying and geomatics firm offering topographic site surveys, construction layout and staking, legal survey coordination services.",
+    "fit_rationale": "Provides topographic site surveys, construction layout and staking, legal survey coordination, utility locating integration services for contractors, excavators, developers, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic site surveys",
+      "Construction layout and staking"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://groundpulse.ca/capabilities",
+        "contact_method": "Phone: 519-902-5428; Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "519-902-5428",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for topographic site surveys, construction layout and staking, legal survey coordination workloads.",
+    "fit_score": 80,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-geoverra",
+    "company_name": "GeoVerra",
+    "company_type": "Geomatics",
+    "hq_city": "Ontario",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Geomatics",
+      "Surveying",
+      "LiDAR",
+      "Mapping",
+      "Construction survey support"
+    ],
+    "client_types": [
+      "Infrastructure owners",
+      "Energy clients",
+      "Construction clients"
+    ],
+    "evidence_links": [
+      "https://www.geoverra.com"
+    ],
+    "summary": "Surveying and geomatics firm offering geomatics, surveying, lidar services.",
+    "fit_rationale": "Provides geomatics, surveying, lidar, mapping services for infrastructure owners, energy clients, construction clients, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "LiDAR",
+      "Mapping",
+      "Construction survey support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.geoverra.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for geomatics, surveying, lidar workloads.",
+    "fit_score": 90,
+    "confidence_score": 65,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave1-tham-surveying-limited",
+    "company_name": "Tham Surveying Limited",
+    "company_type": "Geomatics",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Land surveying",
+      "Topographic surveys",
+      "Construction layout",
+      "Reference plans"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Property owners"
+    ],
+    "evidence_links": [
+      "https://thamsurveying.com"
+    ],
+    "summary": "Surveying and geomatics firm offering land surveying, topographic surveys, construction layout services.",
+    "fit_rationale": "Provides land surveying, topographic surveys, construction layout, reference plans services for developers, builders, property owners, creating a direct fit for overflow RPAS LiDAR, photogrammetry, topo capture, construction documentation and inspection support.",
+    "drone_lidar_fit_signals": [
+      "Topographic surveys",
+      "Construction layout"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://thamsurveying.com",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer subcontract aerial LiDAR, photogrammetry, site modelling and field capture support for land surveying, topographic surveys, construction layout workloads.",
+    "fit_score": 80,
+    "confidence_score": 65,
+    "pipeline_stage": "New",
+    "notes": "Wave 1 surveyor/geomatics expansion.",
+    "last_verified_date": "2026-07-20"
   }
 ]

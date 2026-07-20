@@ -1,11 +1,11 @@
 # DSCI Lead Intelligence — QA, Dedupe and Saturation Report
 
 **Research date:** July 19, 2026  
-**Final lead count:** 100
+**Final lead count:** 152
 
 ## Scope
 
-The lead universe was rebuilt from scratch using the current ACEC-Ontario member directory and current first-party company websites. FNESL was used only as a service-profile benchmark: civil engineering, municipal/community infrastructure, water and wastewater, buildings and project delivery. Indigenous ownership or affiliation was not required.
+The lead universe was rebuilt from the current ACEC-Ontario member directory, ORCGA land-surveying listings, Ontario surveyor/geomatics company websites and current first-party company websites. The target profile is Ontario engineering, surveying, geomatics, construction-support and infrastructure firms whose services overlap with Drone Services Canada Inc.'s RPAS LiDAR, mapping, inspection and documentation work.
 
 ## Verification checklist
 
@@ -29,9 +29,9 @@ The lead universe was rebuilt from scratch using the current ACEC-Ontario member
 
 ## Saturation report
 
-The current ACEC-Ontario directory displayed 131 results during final verification. The final dataset includes 100 firms selected for direct relevance to Ontario civil infrastructure, water/wastewater, environmental and geotechnical work, geomatics/surveying, construction management, transportation, asset assessment or infrastructure inspection. Firms focused primarily on acoustics, audiovisual systems, code consulting, mechanical-only building systems, forensic litigation or unrelated process niches were excluded.
+The current ACEC-Ontario directory displayed 131 results during final verification. The first build included 100 firms selected for direct relevance to Ontario civil infrastructure, water/wastewater, environmental and geotechnical work, geomatics/surveying, construction management, transportation, asset assessment or infrastructure inspection. Wave 1 added 52 surveyor/geomatics-skewed leads from ORCGA listings, public search results and first-party websites.
 
-Repeated pagination produced the same firms, offices and parent brands. After corporate consolidation and relevance filtering, additional ACEC results were primarily outside the target service profile. The 100-record set therefore meets the requested scale without padding the dataset with unrelated firms.
+Repeated pagination produced the same firms, offices and parent brands. After corporate consolidation and relevance filtering, additional ACEC results were primarily outside the target service profile. The expanded 152-record set adds a deliberate surveyor/geomatics skew without padding the dataset with unrelated firms.
 
 ## Reproducible fit score
 

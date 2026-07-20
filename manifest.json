@@ -1,8 +1,8 @@
 {
   "project": "DSCI Lead Intelligence",
   "generated_at": "2026-07-19",
-  "lead_count": 100,
-  "source_universe": "ACEC-Ontario member directory and first-party company websites",
+  "lead_count": 152,
+  "source_universe": "ACEC-Ontario member directory, ORCGA land-surveying listings, Ontario surveyor/geomatics company websites and first-party company websites",
   "files": [
     "index.html",
     "404.html",
@@ -15,7 +15,9 @@
     ".nojekyll",
     ".github/workflows/deploy-pages.yml",
     "scripts/validate_dataset.py",
-    "scripts/sync_embedded_data.py"
+    "scripts/sync_embedded_data.py",
+    "scripts/add_wave1_surveyors.py",
+    "DATA_SOURCING.md"
   ],
   "deployment_target": "GitHub Pages"
 }
