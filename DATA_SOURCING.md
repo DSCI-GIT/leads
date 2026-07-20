@@ -31,3 +31,29 @@ Refresh process:
 3. Run `python scripts/validate_dataset.py`.
 4. Run `python scripts/sync_embedded_data.py`.
 5. Spot-check the app filters for company type, region, score and outreach behavior.
+
+## Wave 2 Construction/Inspection Expansion
+
+**Date:** July 20, 2026<br>
+**Added leads:** 55<br>
+**New total:** 207
+
+Wave 2 expands the dataset toward contractors, heavy-civil firms, excavation/site-servicing firms, utility/site investigation, roofing/envelope firms and inspection/NDT providers.
+
+Primary source types:
+
+- ORCGA member listings for road builders, excavators, locators and related utility stakeholders.
+- Ottawa Construction Association member directory examples with civil/site-service classifications.
+- Ontario Road Builders' Association market/source context for transportation infrastructure contractors.
+- Ontario Industrial Roofing Contractors Association search/member-directory context for roofing and building-envelope firms.
+- First-party company websites for public service descriptions and contact pages.
+
+Inclusion rules:
+
+- Ontario headquarters, office, member listing or active Ontario service area.
+- Clear construction, heavy civil, excavation, road/bridge, sewer/watermain, utility, roofing/envelope, condition assessment, inspection or NDT service signal.
+- Useful fit for DSCI as a construction documentation, progress mapping, aerial LiDAR/topographic, inspection imagery, roof/envelope inspection or site-data subcontract partner.
+
+Lower-confidence records:
+
+- Many Wave 2 records keep `NOT CONFIRMED` for public email/phone because this pass prioritized market breadth and sourceable company/service fit. Verify public contacts before outreach.

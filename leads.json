@@ -7699,5 +7699,2681 @@
     "pipeline_stage": "New",
     "notes": "Wave 1 surveyor/geomatics expansion.",
     "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-24-7-vacuum-excavation",
+    "company_name": "24/7 Vacuum Excavation",
+    "company_type": "Construction",
+    "hq_city": "Pickering",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Vacuum excavation",
+      "Utility daylighting",
+      "Hydrovac services",
+      "Site support"
+    ],
+    "client_types": [
+      "Excavators",
+      "Utilities",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.247vac.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for vacuum excavation, utility daylighting, hydrovac services work.",
+    "fit_rationale": "Provides vacuum excavation, utility daylighting, hydrovac services, site support services for excavators, utilities, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility daylighting",
+      "Site support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.247vac.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around vacuum excavation, utility daylighting, hydrovac services workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-a-j-vacworx-inc",
+    "company_name": "A & J Vacworx Inc.",
+    "company_type": "Construction",
+    "hq_city": "Mount Albert",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "York Region",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Vacuum excavation",
+      "Hydrovac services",
+      "Utility exposure",
+      "Site support"
+    ],
+    "client_types": [
+      "Utilities",
+      "Excavators",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.ajvac.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for vacuum excavation, hydrovac services, utility exposure work.",
+    "fit_rationale": "Provides vacuum excavation, hydrovac services, utility exposure, site support services for utilities, excavators, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility exposure",
+      "Site support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.ajvac.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around vacuum excavation, hydrovac services, utility exposure workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-accuworx-inc",
+    "company_name": "Accuworx Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Environmental contracting",
+      "Infrastructure services",
+      "Road-builder support",
+      "Site remediation"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Utilities",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.accuworx.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Heavy Civil firm with public signals for environmental contracting, infrastructure services, road-builder support work.",
+    "fit_rationale": "Provides environmental contracting, infrastructure services, road-builder support, site remediation services for municipalities, utilities, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road-builder support",
+      "Site remediation"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.accuworx.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around environmental contracting, infrastructure services, road-builder support workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-aecon-civil-and-utilities",
+    "company_name": "Aecon Civil and Utilities",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Civil construction",
+      "Utilities",
+      "Road building",
+      "Infrastructure construction"
+    ],
+    "client_types": [
+      "Transportation agencies",
+      "Utilities",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://www.aecon.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Heavy Civil firm with public signals for civil construction, utilities, road building work.",
+    "fit_rationale": "Provides civil construction, utilities, road building, infrastructure construction services for transportation agencies, utilities, municipalities, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road building"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.aecon.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around civil construction, utilities, road building workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-aecon-construction-ontario-east",
+    "company_name": "Aecon Construction Ontario East",
+    "company_type": "Heavy Civil",
+    "hq_city": "Carp",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Road building",
+      "Civil construction",
+      "Aggregates",
+      "Infrastructure construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.karson.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road building, civil construction, aggregates work.",
+    "fit_rationale": "Provides road building, civil construction, aggregates, infrastructure construction services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road building"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.karson.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road building, civil construction, aggregates workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-all-clear-locates-inc",
+    "company_name": "All Clear Locates Inc.",
+    "company_type": "Inspection",
+    "hq_city": "Stouffville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Utility locating",
+      "Site investigation",
+      "Damage prevention",
+      "Subsurface utility support"
+    ],
+    "client_types": [
+      "Excavators",
+      "Contractors",
+      "Utilities"
+    ],
+    "evidence_links": [
+      "https://www.allclearlocates.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Inspection firm with public signals for utility locating, site investigation, damage prevention work.",
+    "fit_rationale": "Provides utility locating, site investigation, damage prevention, subsurface utility support services for excavators, contractors, utilities, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility locating",
+      "Site investigation",
+      "Subsurface utility support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.allclearlocates.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around utility locating, site investigation, damage prevention workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-altech-utility-services",
+    "company_name": "Altech Utility Services",
+    "company_type": "Inspection",
+    "hq_city": "Cambridge",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Utility locating",
+      "Subsurface utility support",
+      "Field investigation",
+      "Damage prevention"
+    ],
+    "client_types": [
+      "Utilities",
+      "Excavators",
+      "Municipal clients"
+    ],
+    "evidence_links": [
+      "http://www.altechworld.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Inspection firm with public signals for utility locating, subsurface utility support, field investigation work.",
+    "fit_rationale": "Provides utility locating, subsurface utility support, field investigation, damage prevention services for utilities, excavators, municipal clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility locating",
+      "Subsurface utility support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.altechworld.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around utility locating, subsurface utility support, field investigation workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-antrim-contracting",
+    "company_name": "Antrim Contracting",
+    "company_type": "Construction",
+    "hq_city": "Arnprior",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Excavation",
+      "Site servicing",
+      "Grading",
+      "Heavy equipment"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Builders",
+      "Developers"
+    ],
+    "evidence_links": [
+      "http://www.antrimcontracting.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for excavation, site servicing, grading work.",
+    "fit_rationale": "Provides excavation, site servicing, grading, heavy equipment services for municipalities, builders, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site servicing",
+      "Grading"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "http://www.antrimcontracting.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around excavation, site servicing, grading workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-ardel-construction-aggregates-ltd",
+    "company_name": "Ardel Construction & Aggregates Ltd.",
+    "company_type": "Construction",
+    "hq_city": "North Bay",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Northern Ontario"
+    ],
+    "primary_services": [
+      "Excavation",
+      "Aggregates",
+      "Site works",
+      "Road-builder support"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Contractors",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://ardelconstruction.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for excavation, aggregates, site works work.",
+    "fit_rationale": "Provides excavation, aggregates, site works, road-builder support services for municipalities, contractors, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site works",
+      "Road-builder support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://ardelconstruction.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around excavation, aggregates, site works workloads.",
+    "fit_score": 82,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-arnott-construction",
+    "company_name": "Arnott Construction",
+    "company_type": "Construction",
+    "hq_city": "Midhurst",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Simcoe County",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Excavation",
+      "Site servicing",
+      "Sewer and watermain",
+      "Heavy civil construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://arnottconstruction.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for excavation, site servicing, sewer and watermain work.",
+    "fit_rationale": "Provides excavation, site servicing, sewer and watermain, heavy civil construction services for municipalities, developers, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site servicing",
+      "Sewer and watermain"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://arnottconstruction.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around excavation, site servicing, sewer and watermain workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-avertex-utility-solutions-inc",
+    "company_name": "Avertex Utility Solutions Inc.",
+    "company_type": "Construction",
+    "hq_city": "Amaranth",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Utility construction",
+      "Excavation",
+      "Directional drilling",
+      "Site support"
+    ],
+    "client_types": [
+      "Utilities",
+      "Municipalities",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.avertex.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for utility construction, excavation, directional drilling work.",
+    "fit_rationale": "Provides utility construction, excavation, directional drilling, site support services for utilities, municipalities, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility construction",
+      "Site support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.avertex.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around utility construction, excavation, directional drilling workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-wrc-contracting",
+    "company_name": "WRC Contracting",
+    "company_type": "Construction",
+    "hq_city": "Pakenham",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ottawa",
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Excavating contractors",
+      "Site services",
+      "Grading",
+      "Sewers and watermains"
+    ],
+    "client_types": [
+      "Builders",
+      "Municipalities",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://wrccontracting.com/",
+      "https://oca.ca/member-directory/"
+    ],
+    "summary": "Construction firm with public signals for excavating contractors, site services, grading work.",
+    "fit_rationale": "Provides excavating contractors, site services, grading, sewers and watermains services for builders, municipalities, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site services",
+      "Grading",
+      "Sewers and watermains"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://wrccontracting.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around excavating contractors, site services, grading workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-malwood",
+    "company_name": "Malwood",
+    "company_type": "Construction",
+    "hq_city": "Dunrobin",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ottawa",
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Concrete contractors",
+      "Excavating contractors",
+      "Crane service",
+      "Site support"
+    ],
+    "client_types": [
+      "Contractors",
+      "Builders",
+      "Commercial clients"
+    ],
+    "evidence_links": [
+      "https://malwood.ca/",
+      "https://oca.ca/member-directory/"
+    ],
+    "summary": "Construction firm with public signals for concrete contractors, excavating contractors, crane service work.",
+    "fit_rationale": "Provides concrete contractors, excavating contractors, crane service, site support services for contractors, builders, commercial clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site support"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://malwood.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around concrete contractors, excavating contractors, crane service workloads.",
+    "fit_score": 82,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-coco-paving-inc",
+    "company_name": "Coco Paving Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Road building",
+      "Asphalt paving",
+      "Heavy civil construction",
+      "Infrastructure construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.cocopaving.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road building, asphalt paving, heavy civil construction work.",
+    "fit_rationale": "Provides road building, asphalt paving, heavy civil construction, infrastructure construction services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road building"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.cocopaving.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road building, asphalt paving, heavy civil construction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-dufferin-construction",
+    "company_name": "Dufferin Construction",
+    "company_type": "Heavy Civil",
+    "hq_city": "Oakville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Road construction",
+      "Bridge construction",
+      "Heavy civil",
+      "Infrastructure construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "MTO",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.dufferinconstruction.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road construction, bridge construction, heavy civil work.",
+    "fit_rationale": "Provides road construction, bridge construction, heavy civil, infrastructure construction services for municipalities, mto, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road construction",
+      "Bridge construction"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.dufferinconstruction.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road construction, bridge construction, heavy civil workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-green-infrastructure-partners",
+    "company_name": "Green Infrastructure Partners",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Infrastructure construction",
+      "Road building",
+      "Paving",
+      "Civil works"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.gipi.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for infrastructure construction, road building, paving work.",
+    "fit_rationale": "Provides infrastructure construction, road building, paving, civil works services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road building"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.gipi.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around infrastructure construction, road building, paving workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-fowler-construction",
+    "company_name": "Fowler Construction",
+    "company_type": "Heavy Civil",
+    "hq_city": "Bracebridge",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Muskoka",
+      "Northern Ontario"
+    ],
+    "primary_services": [
+      "Road construction",
+      "Aggregates",
+      "Site development",
+      "Civil construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.fowler.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road construction, aggregates, site development work.",
+    "fit_rationale": "Provides road construction, aggregates, site development, civil construction services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road construction",
+      "Site development"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.fowler.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road construction, aggregates, site development workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-bot-construction-group",
+    "company_name": "Bot Construction Group",
+    "company_type": "Heavy Civil",
+    "hq_city": "Oakville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Roads",
+      "Bridges",
+      "Transportation infrastructure"
+    ],
+    "client_types": [
+      "Transportation agencies",
+      "Municipalities",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://botconstruction.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, roads, bridges work.",
+    "fit_rationale": "Provides heavy civil construction, roads, bridges, transportation infrastructure services for transportation agencies, municipalities, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roads",
+      "Bridges"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://botconstruction.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, roads, bridges workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-ebc-inc",
+    "company_name": "EBC Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Civil engineering construction",
+      "Transportation infrastructure",
+      "Major projects",
+      "Bridges"
+    ],
+    "client_types": [
+      "Public sector",
+      "Transportation agencies",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.ebcinc.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for civil engineering construction, transportation infrastructure, major projects work.",
+    "fit_rationale": "Provides civil engineering construction, transportation infrastructure, major projects, bridges services for public sector, transportation agencies, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Bridges"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.ebcinc.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around civil engineering construction, transportation infrastructure, major projects workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-fermar-paving-limited",
+    "company_name": "Fermar Paving Limited",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Paving",
+      "Road construction",
+      "Municipal infrastructure",
+      "Civil construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.fermarpaving.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for paving, road construction, municipal infrastructure work.",
+    "fit_rationale": "Provides paving, road construction, municipal infrastructure, civil construction services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road construction"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.fermarpaving.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around paving, road construction, municipal infrastructure workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-grascan-construction-ltd",
+    "company_name": "Grascan Construction Ltd.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Road building",
+      "Bridge construction",
+      "Civil construction",
+      "Infrastructure rehabilitation"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.grascan.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road building, bridge construction, civil construction work.",
+    "fit_rationale": "Provides road building, bridge construction, civil construction, infrastructure rehabilitation services for municipalities, transportation agencies, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road building",
+      "Bridge construction"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.grascan.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road building, bridge construction, civil construction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-four-seasons-site-development-ltd",
+    "company_name": "Four Seasons Site Development Ltd.",
+    "company_type": "Construction",
+    "hq_city": "Brampton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Site development",
+      "Road-builder support",
+      "Earthworks",
+      "Civil construction"
+    ],
+    "client_types": [
+      "Developers",
+      "Builders",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://www.sitedevelopment.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for site development, road-builder support, earthworks work.",
+    "fit_rationale": "Provides site development, road-builder support, earthworks, civil construction services for developers, builders, municipalities, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site development",
+      "Road-builder support",
+      "Earthworks"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.sitedevelopment.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around site development, road-builder support, earthworks workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-k-g-reid-trenching-construction-ltd",
+    "company_name": "K.G. Reid Trenching & Construction Ltd.",
+    "company_type": "Construction",
+    "hq_city": "Belleville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Eastern Ontario"
+    ],
+    "primary_services": [
+      "Trenching",
+      "Excavation",
+      "Utility construction",
+      "Site servicing"
+    ],
+    "client_types": [
+      "Utilities",
+      "Municipalities",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.kgreid.ca/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Construction firm with public signals for trenching, excavation, utility construction work.",
+    "fit_rationale": "Provides trenching, excavation, utility construction, site servicing services for utilities, municipalities, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility construction",
+      "Site servicing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.kgreid.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around trenching, excavation, utility construction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-steed-and-evans-limited",
+    "company_name": "Steed and Evans Limited",
+    "company_type": "Heavy Civil",
+    "hq_city": "St. Jacobs",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Waterloo Region",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Road construction",
+      "Site servicing",
+      "Aggregates",
+      "Asphalt paving"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Transportation clients"
+    ],
+    "evidence_links": [
+      "https://www.steedandevans.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road construction, site servicing, aggregates work.",
+    "fit_rationale": "Provides road construction, site servicing, aggregates, asphalt paving services for municipalities, developers, transportation clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road construction",
+      "Site servicing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.steedandevans.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road construction, site servicing, aggregates workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-kapp-infrastructure-inc",
+    "company_name": "KAPP Infrastructure Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Vaughan",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Roads",
+      "Sewer and watermain",
+      "Site development"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.kappinfrastructure.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, roads, sewer and watermain work.",
+    "fit_rationale": "Provides heavy civil construction, roads, sewer and watermain, site development services for municipalities, developers, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roads",
+      "Sewer and watermain",
+      "Site development"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.kappinfrastructure.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, roads, sewer and watermain workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-bronte-construction",
+    "company_name": "Bronte Construction",
+    "company_type": "Heavy Civil",
+    "hq_city": "Oakville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Bridge construction",
+      "Roadwork",
+      "Marine construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://bronteconstruction.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, bridge construction, roadwork work.",
+    "fit_rationale": "Provides heavy civil construction, bridge construction, roadwork, marine construction services for municipalities, transportation agencies, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Bridge construction",
+      "Roadwork"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://bronteconstruction.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, bridge construction, roadwork workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-alliance-verdi-civil",
+    "company_name": "Alliance Verdi Civil",
+    "company_type": "Heavy Civil",
+    "hq_city": "Bolton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area"
+    ],
+    "primary_services": [
+      "Civil construction",
+      "Earthworks",
+      "Site servicing",
+      "Infrastructure construction"
+    ],
+    "client_types": [
+      "Developers",
+      "Municipalities",
+      "Builders"
+    ],
+    "evidence_links": [
+      "https://allianceverdi.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for civil construction, earthworks, site servicing work.",
+    "fit_rationale": "Provides civil construction, earthworks, site servicing, infrastructure construction services for developers, municipalities, builders, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Earthworks",
+      "Site servicing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://allianceverdi.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around civil construction, earthworks, site servicing workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-gateman-milloy-inc",
+    "company_name": "Gateman-Milloy Inc.",
+    "company_type": "Construction",
+    "hq_city": "Kitchener",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Waterloo Region",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Site development",
+      "Civil construction",
+      "Landscape construction",
+      "Earthworks"
+    ],
+    "client_types": [
+      "Developers",
+      "Institutions",
+      "Municipalities"
+    ],
+    "evidence_links": [
+      "https://www.gatemanmilloy.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for site development, civil construction, landscape construction work.",
+    "fit_rationale": "Provides site development, civil construction, landscape construction, earthworks services for developers, institutions, municipalities, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site development",
+      "Earthworks"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.gatemanmilloy.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around site development, civil construction, landscape construction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-earth-boring-co-limited",
+    "company_name": "Earth Boring Co. Limited",
+    "company_type": "Construction",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Trenchless construction",
+      "Tunnelling",
+      "Utility crossings",
+      "Subsurface infrastructure"
+    ],
+    "client_types": [
+      "Utilities",
+      "Municipalities",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.earthboring.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for trenchless construction, tunnelling, utility crossings work.",
+    "fit_rationale": "Provides trenchless construction, tunnelling, utility crossings, subsurface infrastructure services for utilities, municipalities, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Utility crossings"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.earthboring.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around trenchless construction, tunnelling, utility crossings workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-technicore-underground-inc",
+    "company_name": "Technicore Underground Inc.",
+    "company_type": "Construction",
+    "hq_city": "Newmarket",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Microtunnelling",
+      "Trenchless construction",
+      "Shaft construction",
+      "Underground infrastructure"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Utilities",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://technicore.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for microtunnelling, trenchless construction, shaft construction work.",
+    "fit_rationale": "Provides microtunnelling, trenchless construction, shaft construction, underground infrastructure services for municipalities, utilities, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Microtunnelling",
+      "Trenchless construction",
+      "Shaft construction"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://technicore.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around microtunnelling, trenchless construction, shaft construction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-memme-infrastructure-contractors",
+    "company_name": "Memme Infrastructure Contractors",
+    "company_type": "Heavy Civil",
+    "hq_city": "Hamilton",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Hamilton",
+      "Niagara",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Sewer and watermain",
+      "Road reconstruction",
+      "Site servicing"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Contractors"
+    ],
+    "evidence_links": [
+      "https://www.memme.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, sewer and watermain, road reconstruction work.",
+    "fit_rationale": "Provides heavy civil construction, sewer and watermain, road reconstruction, site servicing services for municipalities, developers, contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Sewer and watermain",
+      "Road reconstruction",
+      "Site servicing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.memme.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, sewer and watermain, road reconstruction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-clearway-construction-inc",
+    "company_name": "Clearway Construction Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Vaughan",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Earthworks",
+      "Roads",
+      "Infrastructure projects"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Transportation agencies",
+      "Developers"
+    ],
+    "evidence_links": [
+      "https://www.clearwaygroup.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, earthworks, roads work.",
+    "fit_rationale": "Provides heavy civil construction, earthworks, roads, infrastructure projects services for municipalities, transportation agencies, developers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Earthworks",
+      "Roads"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.clearwaygroup.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, earthworks, roads workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-powell-contracting",
+    "company_name": "Powell Contracting",
+    "company_type": "Heavy Civil",
+    "hq_city": "Stouffville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Road construction",
+      "Bridge rehabilitation",
+      "Civil infrastructure",
+      "Traffic control"
+    ],
+    "client_types": [
+      "MTO",
+      "Municipalities",
+      "Transportation agencies"
+    ],
+    "evidence_links": [
+      "https://powellcontracting.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for road construction, bridge rehabilitation, civil infrastructure work.",
+    "fit_rationale": "Provides road construction, bridge rehabilitation, civil infrastructure, traffic control services for mto, municipalities, transportation agencies, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Road construction",
+      "Bridge rehabilitation"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://powellcontracting.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around road construction, bridge rehabilitation, civil infrastructure workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-sierra-infrastructure-inc",
+    "company_name": "Sierra Infrastructure Inc.",
+    "company_type": "Heavy Civil",
+    "hq_city": "Woodbridge",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Sewer and watermain",
+      "Road reconstruction",
+      "Site servicing"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.sierrainfrastructure.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, sewer and watermain, road reconstruction work.",
+    "fit_rationale": "Provides heavy civil construction, sewer and watermain, road reconstruction, site servicing services for municipalities, developers, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Sewer and watermain",
+      "Road reconstruction",
+      "Site servicing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.sierrainfrastructure.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, sewer and watermain, road reconstruction workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-metric-contracting-services-corporation",
+    "company_name": "Metric Contracting Services Corporation",
+    "company_type": "Heavy Civil",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Heavy civil construction",
+      "Earthworks",
+      "Roads",
+      "Municipal infrastructure"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Transportation agencies"
+    ],
+    "evidence_links": [
+      "https://www.metriccontracting.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Heavy Civil firm with public signals for heavy civil construction, earthworks, roads work.",
+    "fit_rationale": "Provides heavy civil construction, earthworks, roads, municipal infrastructure services for municipalities, developers, transportation agencies, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Earthworks",
+      "Roads"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.metriccontracting.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around heavy civil construction, earthworks, roads workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-o-hara-trucking-excavating-inc",
+    "company_name": "O'Hara Trucking & Excavating Inc.",
+    "company_type": "Construction",
+    "hq_city": "Ayr",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Waterloo Region",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Excavation",
+      "Trucking",
+      "Site servicing",
+      "Earthworks"
+    ],
+    "client_types": [
+      "Developers",
+      "Contractors",
+      "Municipal clients"
+    ],
+    "evidence_links": [
+      "https://oharatrucking.com/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for excavation, trucking, site servicing work.",
+    "fit_rationale": "Provides excavation, trucking, site servicing, earthworks services for developers, contractors, municipal clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site servicing",
+      "Earthworks"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://oharatrucking.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around excavation, trucking, site servicing workloads.",
+    "fit_score": 82,
+    "confidence_score": 70,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-north-rock-group-ltd",
+    "company_name": "North Rock Group Ltd.",
+    "company_type": "Construction",
+    "hq_city": "Barrie",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Central Ontario"
+    ],
+    "primary_services": [
+      "Infrastructure construction",
+      "Site development",
+      "Roadwork",
+      "Civil construction"
+    ],
+    "client_types": [
+      "Municipalities",
+      "Developers",
+      "Commercial clients"
+    ],
+    "evidence_links": [
+      "https://northrockgroup.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for infrastructure construction, site development, roadwork work.",
+    "fit_rationale": "Provides infrastructure construction, site development, roadwork, civil construction services for municipalities, developers, commercial clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Site development",
+      "Roadwork"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://northrockgroup.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around infrastructure construction, site development, roadwork workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-csl-group-ltd",
+    "company_name": "CSL Group Ltd.",
+    "company_type": "Construction",
+    "hq_city": "Ancaster",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Commercial site services",
+      "Landscape construction",
+      "Snow and ice management",
+      "Property services"
+    ],
+    "client_types": [
+      "Commercial clients",
+      "Institutions",
+      "Property managers"
+    ],
+    "evidence_links": [
+      "https://www.cslgroup.ca/",
+      "https://orba.org/"
+    ],
+    "summary": "Construction firm with public signals for commercial site services, landscape construction, snow and ice management work.",
+    "fit_rationale": "Provides commercial site services, landscape construction, snow and ice management, property services services for commercial clients, institutions, property managers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Commercial site services"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.cslgroup.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around commercial site services, landscape construction, snow and ice management workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-irc-building-sciences-group",
+    "company_name": "IRC Building Sciences Group",
+    "company_type": "Inspection",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Building envelope consulting",
+      "Roofing assessment",
+      "Condition assessment",
+      "Inspection"
+    ],
+    "client_types": [
+      "Property managers",
+      "Institutions",
+      "Commercial owners"
+    ],
+    "evidence_links": [
+      "https://www.ircgroup.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building envelope consulting, roofing assessment, condition assessment work.",
+    "fit_rationale": "Provides building envelope consulting, roofing assessment, condition assessment, inspection services for property managers, institutions, commercial owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Building envelope consulting",
+      "Roofing assessment",
+      "Condition assessment",
+      "Inspection"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.ircgroup.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building envelope consulting, roofing assessment, condition assessment workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-pretium-engineering-inc",
+    "company_name": "Pretium Engineering Inc.",
+    "company_type": "Inspection",
+    "hq_city": "Burlington",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Building science",
+      "Roofing consulting",
+      "Envelope assessment",
+      "Structural restoration"
+    ],
+    "client_types": [
+      "Building owners",
+      "Property managers",
+      "Institutions"
+    ],
+    "evidence_links": [
+      "https://pretiumengineering.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building science, roofing consulting, envelope assessment work.",
+    "fit_rationale": "Provides building science, roofing consulting, envelope assessment, structural restoration services for building owners, property managers, institutions, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roofing consulting",
+      "Envelope assessment"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://pretiumengineering.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building science, roofing consulting, envelope assessment workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-brown-beattie-ltd",
+    "company_name": "Brown & Beattie Ltd.",
+    "company_type": "Inspection",
+    "hq_city": "Guelph",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Building science",
+      "Roofing consulting",
+      "Reserve fund studies",
+      "Condition assessments"
+    ],
+    "client_types": [
+      "Condominiums",
+      "Property managers",
+      "Building owners"
+    ],
+    "evidence_links": [
+      "https://brownbeattie.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building science, roofing consulting, reserve fund studies work.",
+    "fit_rationale": "Provides building science, roofing consulting, reserve fund studies, condition assessments services for condominiums, property managers, building owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roofing consulting",
+      "Condition assessments"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://brownbeattie.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building science, roofing consulting, reserve fund studies workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-sense-engineering",
+    "company_name": "Sense Engineering",
+    "company_type": "Inspection",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Building restoration",
+      "Building envelope",
+      "Roofing consulting",
+      "Condition assessments"
+    ],
+    "client_types": [
+      "Condominiums",
+      "Institutions",
+      "Commercial owners"
+    ],
+    "evidence_links": [
+      "https://senseengineering.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building restoration, building envelope, roofing consulting work.",
+    "fit_rationale": "Provides building restoration, building envelope, roofing consulting, condition assessments services for condominiums, institutions, commercial owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Building envelope",
+      "Roofing consulting",
+      "Condition assessments"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://senseengineering.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building restoration, building envelope, roofing consulting workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-edison-engineers-inc",
+    "company_name": "Edison Engineers Inc.",
+    "company_type": "Inspection",
+    "hq_city": "Markham",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Building restoration",
+      "Envelope assessment",
+      "Roof consulting",
+      "Parking garage restoration"
+    ],
+    "client_types": [
+      "Condominiums",
+      "Property managers",
+      "Building owners"
+    ],
+    "evidence_links": [
+      "https://edisonengineers.ca/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building restoration, envelope assessment, roof consulting work.",
+    "fit_rationale": "Provides building restoration, envelope assessment, roof consulting, parking garage restoration services for condominiums, property managers, building owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Envelope assessment",
+      "Roof consulting"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://edisonengineers.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building restoration, envelope assessment, roof consulting workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-keller-engineering",
+    "company_name": "Keller Engineering",
+    "company_type": "Inspection",
+    "hq_city": "Ottawa",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Building envelope",
+      "Roof consulting",
+      "Structural restoration",
+      "Condition assessments"
+    ],
+    "client_types": [
+      "Condominiums",
+      "Commercial owners",
+      "Institutions"
+    ],
+    "evidence_links": [
+      "https://kellerengineering.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for building envelope, roof consulting, structural restoration work.",
+    "fit_rationale": "Provides building envelope, roof consulting, structural restoration, condition assessments services for condominiums, commercial owners, institutions, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Building envelope",
+      "Roof consulting",
+      "Condition assessments"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://kellerengineering.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around building envelope, roof consulting, structural restoration workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-pinchin-ltd",
+    "company_name": "Pinchin Ltd.",
+    "company_type": "Inspection",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Environmental consulting",
+      "Building science",
+      "Property condition assessments",
+      "Hazardous materials"
+    ],
+    "client_types": [
+      "Property owners",
+      "Institutions",
+      "Commercial clients"
+    ],
+    "evidence_links": [
+      "https://www.pinchin.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for environmental consulting, building science, property condition assessments work.",
+    "fit_rationale": "Provides environmental consulting, building science, property condition assessments, hazardous materials services for property owners, institutions, commercial clients, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Property condition assessments"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.pinchin.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around environmental consulting, building science, property condition assessments workloads.",
+    "fit_score": 82,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-acuren",
+    "company_name": "Acuren",
+    "company_type": "Inspection",
+    "hq_city": "Oakville",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "NDT inspection",
+      "Materials engineering",
+      "Asset integrity",
+      "Industrial inspection"
+    ],
+    "client_types": [
+      "Industrial clients",
+      "Infrastructure owners",
+      "Utilities"
+    ],
+    "evidence_links": [
+      "https://www.acuren.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Inspection firm with public signals for ndt inspection, materials engineering, asset integrity work.",
+    "fit_rationale": "Provides ndt inspection, materials engineering, asset integrity, industrial inspection services for industrial clients, infrastructure owners, utilities, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "NDT inspection",
+      "Industrial inspection"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.acuren.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around ndt inspection, materials engineering, asset integrity workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-mistras-group-canada",
+    "company_name": "MISTRAS Group Canada",
+    "company_type": "Inspection",
+    "hq_city": "Burlington",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "NDT inspection",
+      "Asset protection",
+      "Condition monitoring",
+      "Industrial inspection"
+    ],
+    "client_types": [
+      "Industrial clients",
+      "Utilities",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.mistrasgroup.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Inspection firm with public signals for ndt inspection, asset protection, condition monitoring work.",
+    "fit_rationale": "Provides ndt inspection, asset protection, condition monitoring, industrial inspection services for industrial clients, utilities, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "NDT inspection",
+      "Condition monitoring",
+      "Industrial inspection"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.mistrasgroup.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around ndt inspection, asset protection, condition monitoring workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-irisndt",
+    "company_name": "IRISNDT",
+    "company_type": "Inspection",
+    "hq_city": "Burlington",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "NDT inspection",
+      "Engineering inspection",
+      "Asset integrity",
+      "Industrial services"
+    ],
+    "client_types": [
+      "Industrial clients",
+      "Energy clients",
+      "Infrastructure owners"
+    ],
+    "evidence_links": [
+      "https://www.irisndt.com/",
+      "https://orcga.com/members/"
+    ],
+    "summary": "Inspection firm with public signals for ndt inspection, engineering inspection, asset integrity work.",
+    "fit_rationale": "Provides ndt inspection, engineering inspection, asset integrity, industrial services services for industrial clients, energy clients, infrastructure owners, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "NDT inspection",
+      "Engineering inspection"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.irisndt.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around ndt inspection, engineering inspection, asset integrity workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-flynn-group-of-companies",
+    "company_name": "Flynn Group of Companies",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Commercial roofing",
+      "Building envelope",
+      "Glazing",
+      "Architectural metals"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Institutions",
+      "General contractors"
+    ],
+    "evidence_links": [
+      "https://flynncompanies.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for commercial roofing, building envelope, glazing work.",
+    "fit_rationale": "Provides commercial roofing, building envelope, glazing, architectural metals services for commercial owners, institutions, general contractors, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Commercial roofing",
+      "Building envelope"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://flynncompanies.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around commercial roofing, building envelope, glazing workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-semple-gooder-roofing-corporation",
+    "company_name": "Semple Gooder Roofing Corporation",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Greater Toronto Area",
+      "Ontario"
+    ],
+    "primary_services": [
+      "Commercial roofing",
+      "Roof replacement",
+      "Roof maintenance",
+      "Roofing service"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Institutions",
+      "Property managers"
+    ],
+    "evidence_links": [
+      "https://semplegooder.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for commercial roofing, roof replacement, roof maintenance work.",
+    "fit_rationale": "Provides commercial roofing, roof replacement, roof maintenance, roofing service services for commercial owners, institutions, property managers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Commercial roofing",
+      "Roof replacement",
+      "Roof maintenance",
+      "Roofing service"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://semplegooder.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around commercial roofing, roof replacement, roof maintenance workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-bothwell-accurate",
+    "company_name": "Bothwell-Accurate",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Commercial roofing",
+      "Waterproofing",
+      "Building envelope",
+      "Metal cladding"
+    ],
+    "client_types": [
+      "General contractors",
+      "Commercial owners",
+      "Institutions"
+    ],
+    "evidence_links": [
+      "https://bothwell-accurate.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for commercial roofing, waterproofing, building envelope work.",
+    "fit_rationale": "Provides commercial roofing, waterproofing, building envelope, metal cladding services for general contractors, commercial owners, institutions, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Commercial roofing",
+      "Waterproofing",
+      "Building envelope"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://bothwell-accurate.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around commercial roofing, waterproofing, building envelope workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-atlas-apex-roofing-inc",
+    "company_name": "Atlas-Apex Roofing Inc.",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Etobicoke",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Commercial roofing",
+      "Roof maintenance",
+      "Waterproofing",
+      "Building envelope"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Institutions",
+      "Property managers"
+    ],
+    "evidence_links": [
+      "https://atlas-apex.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for commercial roofing, roof maintenance, waterproofing work.",
+    "fit_rationale": "Provides commercial roofing, roof maintenance, waterproofing, building envelope services for commercial owners, institutions, property managers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Commercial roofing",
+      "Roof maintenance",
+      "Waterproofing",
+      "Building envelope"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://atlas-apex.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around commercial roofing, roof maintenance, waterproofing workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-canadian-roof-management-services-ltd",
+    "company_name": "Canadian Roof Management Services Ltd.",
+    "company_type": "Inspection",
+    "hq_city": "Mississauga",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario"
+    ],
+    "primary_services": [
+      "Roof consulting",
+      "Roof inspections",
+      "Asset management",
+      "Condition assessments"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Property managers",
+      "Institutions"
+    ],
+    "evidence_links": [
+      "https://canadianroofmanagement.ca/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Inspection firm with public signals for roof consulting, roof inspections, asset management work.",
+    "fit_rationale": "Provides roof consulting, roof inspections, asset management, condition assessments services for commercial owners, property managers, institutions, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roof consulting",
+      "Roof inspections",
+      "Condition assessments"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://canadianroofmanagement.ca/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around roof consulting, roof inspections, asset management workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-tremco-roofing-canada",
+    "company_name": "Tremco Roofing Canada",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Roof restoration",
+      "Roof assessment",
+      "Building envelope",
+      "Weatherproofing"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Institutions",
+      "Property managers"
+    ],
+    "evidence_links": [
+      "https://www.tremcoroofing.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for roof restoration, roof assessment, building envelope work.",
+    "fit_rationale": "Provides roof restoration, roof assessment, building envelope, weatherproofing services for commercial owners, institutions, property managers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roof restoration",
+      "Roof assessment",
+      "Building envelope",
+      "Weatherproofing"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.tremcoroofing.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around roof restoration, roof assessment, building envelope workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
+  },
+  {
+    "id": "on-wave2-garland-canada-inc",
+    "company_name": "Garland Canada Inc.",
+    "company_type": "Roofing/Envelope",
+    "hq_city": "Toronto",
+    "hq_province": "Ontario",
+    "regions_served": [
+      "Ontario",
+      "Canada"
+    ],
+    "primary_services": [
+      "Roofing systems",
+      "Building envelope",
+      "Roof assessment",
+      "Asset management"
+    ],
+    "client_types": [
+      "Commercial owners",
+      "Institutions",
+      "Property managers"
+    ],
+    "evidence_links": [
+      "https://www.garlandcanada.com/",
+      "https://secure.ontarioroofing.com/"
+    ],
+    "summary": "Roofing/Envelope firm with public signals for roofing systems, building envelope, roof assessment work.",
+    "fit_rationale": "Provides roofing systems, building envelope, roof assessment, asset management services for commercial owners, institutions, property managers, creating a fit for RPAS site documentation, aerial progress capture, LiDAR/topographic support and inspection imagery.",
+    "drone_lidar_fit_signals": [
+      "Roofing systems",
+      "Building envelope",
+      "Roof assessment"
+    ],
+    "contacts": [
+      {
+        "name": "NOT CONFIRMED",
+        "title": "NOT CONFIRMED",
+        "source_url": "https://www.garlandcanada.com/",
+        "contact_method": "Website/contact form"
+      }
+    ],
+    "public_email": "NOT CONFIRMED",
+    "public_phone": "NOT CONFIRMED",
+    "contact_form_url": "NOT CONFIRMED",
+    "outreach_angle": "Offer construction-progress mapping, as-built documentation, aerial LiDAR/topographic capture and inspection imagery around roofing systems, building envelope, roof assessment workloads.",
+    "fit_score": 90,
+    "confidence_score": 75,
+    "pipeline_stage": "New",
+    "notes": "Wave 2 construction/heavy-civil/inspection expansion.",
+    "last_verified_date": "2026-07-20"
   }
 ]
