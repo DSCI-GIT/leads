@@ -14,6 +14,7 @@ Static lead-intelligence website for Drone Services Canada Inc. The application 
 - `scripts/sync_embedded_data.py` — updates the offline dataset inside the HTML files
 - `scripts/add_wave1_surveyors.py` — reproducible Wave 1 surveyor/geomatics lead expansion
 - `scripts/add_wave2_construction_inspection.py` — reproducible Wave 2 construction/inspection lead expansion
+- `scripts/add_wave3_remaining_categories.py` — reproducible Wave 3 expansion for municipal, utility, aggregate and developer/property leads
 
 ## Publish with GitHub Pages
 

@@ -57,3 +57,34 @@ Inclusion rules:
 Lower-confidence records:
 
 - Many Wave 2 records keep `NOT CONFIRMED` for public email/phone because this pass prioritized market breadth and sourceable company/service fit. Verify public contacts before outreach.
+
+## Wave 3 Remaining Lead Categories
+
+**Date:** July 20, 2026<br>
+**Added leads:** 208<br>
+**New total:** 415
+
+Wave 3 fills the remaining high-fit lead buckets at a minimum of 50 researched records each:
+
+- Municipal/Public Works: 52
+- Utilities/Energy: 52
+- Aggregates/Materials: 52
+- Developer/Property: 52
+
+Primary source types:
+
+- Ontario's official municipality list, used to target public works, engineering, roads, bridges, water/wastewater, stormwater and capital-project departments.
+- Ontario Energy Board licensed-company list, used to target electricity distributors and utility infrastructure owners.
+- Ontario Stone, Sand & Gravel Association active-member directory, used to target pits, quarries, aggregate producers and construction-materials firms.
+- BILD, HCRA and CHBA builder/developer directories, used to target builders, developers, real-estate owners and property asset managers.
+- First-party websites where a reliable company or municipality URL was available during the pass.
+
+Inclusion rules:
+
+- Ontario presence, Ontario operating area or Ontario-regulated/licensed market participation.
+- Clear asset owner, site owner, infrastructure owner, utility, public works, aggregates, builder/developer or property-management fit.
+- Useful fit for DSCI as an aerial mapping, construction documentation, asset inspection, stockpile survey, roof/envelope inspection or corridor/site-capture provider.
+
+Lower-confidence records:
+
+- Wave 3 is deliberately broad. Most records should be treated as account targets first; public contact names, direct emails and phone numbers should be verified before outreach.

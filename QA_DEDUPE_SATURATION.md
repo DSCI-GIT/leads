@@ -1,11 +1,11 @@
 # DSCI Lead Intelligence — QA, Dedupe and Saturation Report
 
 **Research date:** July 20, 2026<br>
-**Final lead count:** 207
+**Final lead count:** 415
 
 ## Scope
 
-The lead universe was rebuilt from the current ACEC-Ontario member directory, ORCGA listings, OCA member-directory examples, Ontario surveyor/geomatics company websites, road-building/roofing market sources and current first-party company websites. The target profile is Ontario engineering, surveying, geomatics, construction-support, heavy-civil, inspection and infrastructure firms whose services overlap with Drone Services Canada Inc.'s RPAS LiDAR, mapping, inspection and documentation work.
+The lead universe was rebuilt from the current ACEC-Ontario member directory, ORCGA listings, OCA member-directory examples, Ontario surveyor/geomatics company websites, road-building/roofing market sources, Ontario municipal and energy-regulator lists, aggregate-industry directories, builder/developer directories and current first-party company websites. The target profile is Ontario engineering, surveying, geomatics, construction-support, heavy-civil, inspection, public works, utility, aggregate/materials, developer/property and infrastructure firms whose services overlap with Drone Services Canada Inc.'s RPAS LiDAR, mapping, inspection and documentation work.
 
 ## Verification checklist
 
@@ -14,7 +14,7 @@ The lead universe was rebuilt from the current ACEC-Ontario member directory, OR
 - Missing public information is marked `NOT CONFIRMED`.
 - Named contacts are included only where the source explicitly states the name and title.
 - Summaries and outreach angles are generated only from listed service categories, sectors and regions.
-- Original engineering records use `last_verified_date` = `2026-07-19`; Wave 1 and Wave 2 expansion records use `last_verified_date` = `2026-07-20`.
+- Original engineering records use `last_verified_date` = `2026-07-19`; Wave 1, Wave 2 and Wave 3 expansion records use `last_verified_date` = `2026-07-20`.
 
 ## Dedupe log
 
@@ -29,9 +29,9 @@ The lead universe was rebuilt from the current ACEC-Ontario member directory, OR
 
 ## Saturation report
 
-The current ACEC-Ontario directory displayed 131 results during final verification. The first build included 100 firms selected for direct relevance to Ontario civil infrastructure, water/wastewater, environmental and geotechnical work, geomatics/surveying, construction management, transportation, asset assessment or infrastructure inspection. Wave 1 added 52 surveyor/geomatics-skewed leads from ORCGA listings, public search results and first-party websites. Wave 2 added 55 construction, heavy-civil, roofing/envelope and inspection leads from ORCGA, OCA, ORBA/OIRCA market sources and first-party websites.
+The current ACEC-Ontario directory displayed 131 results during final verification. The first build included 100 firms selected for direct relevance to Ontario civil infrastructure, water/wastewater, environmental and geotechnical work, geomatics/surveying, construction management, transportation, asset assessment or infrastructure inspection. Wave 1 added 52 surveyor/geomatics-skewed leads from ORCGA listings, public search results and first-party websites. Wave 2 added 55 construction, heavy-civil, roofing/envelope and inspection leads from ORCGA, OCA, ORBA/OIRCA market sources and first-party websites. Wave 3 added 208 remaining-category leads, with 52 each for municipal/public works, utilities/energy, aggregates/materials and developer/property.
 
-Repeated pagination produced the same firms, offices and parent brands. After corporate consolidation and relevance filtering, additional ACEC results were primarily outside the target service profile. The expanded 207-record set adds deliberate surveyor/geomatics, construction, heavy-civil, roofing/envelope and inspection skew without padding the dataset with unrelated firms.
+Repeated pagination produced the same firms, offices and parent brands. After corporate consolidation and relevance filtering, additional ACEC results were primarily outside the target service profile. The expanded 415-record set adds deliberate surveyor/geomatics, construction, heavy-civil, roofing/envelope, inspection, municipal, utility, aggregates and developer/property skew without padding the dataset with unrelated firms.
 
 ## Reproducible fit score
 
