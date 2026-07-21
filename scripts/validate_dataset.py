@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the DSCI lead dataset before GitHub Pages deployment."""
+"""Validate the lead datasets before GitHub Pages deployment."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "leads.json"
+DATASETS = [ROOT / "leads.json", ROOT / "sc3d_leads.json"]
 
 REQUIRED_FIELDS = {
     "id",
@@ -47,11 +47,11 @@ def valid_http_url(value: str) -> bool:
     return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
 
 
-def main() -> None:
+def validate_file(data_path: Path) -> int:
     try:
-        leads = json.loads(DATA.read_text(encoding="utf-8"))
+        leads = json.loads(data_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
-        fail(f"Cannot read valid JSON from {DATA}: {exc}")
+        fail(f"Cannot read valid JSON from {data_path}: {exc}")
 
     if not isinstance(leads, list) or not leads:
         fail("leads.json must contain a non-empty JSON array")
@@ -111,7 +111,16 @@ def main() -> None:
             if not valid_http_url(str(contact["source_url"])):
                 fail(f"{company_name}: invalid contact source URL {contact['source_url']!r}")
 
-    print(f"Validated {len(leads)} leads with unique IDs, unique names, valid scores and URL evidence.")
+    print(f"Validated {data_path.name}: {len(leads)} leads with unique IDs, unique names, valid scores and URL evidence.")
+    return len(leads)
+
+
+def main() -> None:
+    total = 0
+    for data_path in DATASETS:
+        if data_path.exists():
+            total += validate_file(data_path)
+    print(f"Validated {total} total leads across {len([p for p in DATASETS if p.exists()])} dataset(s).")
 
 
 if __name__ == "__main__":

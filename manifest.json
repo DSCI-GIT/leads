@@ -1,14 +1,18 @@
 {
   "project": "DSCI Lead Intelligence",
   "generated_at": "2026-07-20",
-  "lead_count": 415,
+  "lead_count": 495,
   "source_universe": "ACEC-Ontario member directory, ORCGA listings, OCA member directory, ORBA/OIRCA market sources, Ontario municipal list, OEB licensed companies, OSSGA active members, BILD/HCRA/CHBA builder and developer directories, Ontario surveyor/geomatics company websites and first-party company websites",
   "files": [
     "index.html",
+    "sc3d.html",
     "404.html",
     "leads.json",
     "leads.csv",
+    "sc3d_leads.json",
+    "sc3d_leads.csv",
     "QA_DEDUPE_SATURATION.md",
+    "SC3D_SOURCING.md",
     "README.md",
     "manifest.json",
     "robots.txt",
@@ -19,6 +23,8 @@
     "scripts/add_wave1_surveyors.py",
     "scripts/add_wave2_construction_inspection.py",
     "scripts/add_wave3_remaining_categories.py",
+    "scripts/add_sc3d_initial_leads.py",
+    "scripts/build_sc3d_page.py",
     "DATA_SOURCING.md"
   ],
   "deployment_target": "GitHub Pages"
