@@ -20,7 +20,7 @@ SC3D_TEMPLATES = {
             "A hosted digital twin for your spaces",
             "Help prospects walk the space before they visit",
         ],
-        "body": "Hello {{contact_name}},\n\nI am reaching out from SplatCap3D. We create photorealistic, walkable 3D digital twins of real spaces using Gaussian splat capture and hosted browser viewers.\n\n{{personalization_line}}\n\nFor teams selling or presenting spaces, the practical value is simple: prospects can explore the environment remotely, understand scale and flow, and share the experience with decision makers without booking another site visit. The same capture can also support web embeds, short teaser clips, annotations and internal review.\n\nWould it be useful to look at one location where an interactive 3D walkthrough could help your sales, leasing or stakeholder process?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
+        "body": "Hello {{contact_name}},\n\nI am reaching out from SplatCap3D. We create photorealistic, walkable 3D digital twins of real spaces using Gaussian splat capture and hosted browser viewers.\n\n{{personalization_line}}\n\nHere is a relevant interactive sample for context:\n{{splat_preview_text}}\n\nFor teams selling or presenting spaces, the practical value is simple: prospects can explore the environment remotely, understand scale and flow, and share the experience with decision makers without booking another site visit. The same capture can also support web embeds, short teaser clips, annotations and internal review.\n\nWould it be useful to look at one location where an interactive 3D walkthrough could help your sales, leasing or stakeholder process?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
     },
     "aec-progress": {
         "name": "AEC / construction progress",
@@ -29,7 +29,7 @@ SC3D_TEMPLATES = {
             "A browser-based site twin for stakeholder review",
             "Photorealistic construction documentation",
         ],
-        "body": "Hello {{contact_name}},\n\nSplatCap3D builds photorealistic 3D twins of sites and facilities so teams can review spaces remotely in a browser.\n\n{{personalization_line}}\n\nThis is different from traditional drone mapping: the goal is an explorable visual record that stakeholders can walk through, annotate, measure and compare over time. It is useful for interiors, exteriors, model suites, fit-outs, facilities and repeat progress captures where photos or 360 tours do not carry enough spatial context.\n\nCould we compare one upcoming project or property where a lightweight digital twin would reduce site visits or improve review quality?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
+        "body": "Hello {{contact_name}},\n\nSplatCap3D builds photorealistic 3D twins of sites and facilities so teams can review spaces remotely in a browser.\n\n{{personalization_line}}\n\nHere is a relevant interactive sample for context:\n{{splat_preview_text}}\n\nThis is different from traditional drone mapping: the goal is an explorable visual record that stakeholders can walk through, annotate, measure and compare over time. It is useful for interiors, exteriors, model suites, fit-outs, facilities and repeat progress captures where photos or 360 tours do not carry enough spatial context.\n\nCould we compare one upcoming project or property where a lightweight digital twin would reduce site visits or improve review quality?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
     },
     "training": {
         "name": "Operations / training twin",
@@ -38,7 +38,7 @@ SC3D_TEMPLATES = {
             "A digital twin for operational context",
             "Reduce repeat site visits with a hosted 3D space",
         ],
-        "body": "Hello {{contact_name}},\n\nI am contacting you from SplatCap3D. We capture real spaces as photorealistic 3D digital twins that can be opened in a browser and shared with teams.\n\n{{personalization_line}}\n\nFor complex facilities, venues or operational spaces, a digital twin can support orientation, training, remote review and documentation without sending every stakeholder back to site. The result is more spatially useful than a photo set and easier to distribute than a specialist 3D model.\n\nWould you be open to a short call to identify one space where a browser-based walkthrough could help training, planning or stakeholder alignment?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
+        "body": "Hello {{contact_name}},\n\nI am contacting you from SplatCap3D. We capture real spaces as photorealistic 3D digital twins that can be opened in a browser and shared with teams.\n\n{{personalization_line}}\n\nHere is a relevant interactive sample for context:\n{{splat_preview_text}}\n\nFor complex facilities, venues or operational spaces, a digital twin can support orientation, training, remote review and documentation without sending every stakeholder back to site. The result is more spatially useful than a photo set and easier to distribute than a specialist 3D model.\n\nWould you be open to a short call to identify one space where a browser-based walkthrough could help training, planning or stakeholder alignment?\n\nRegards,\n{{sender_name}}\nSplatCap3D\n{{sender_contact}}",
     },
 }
 
