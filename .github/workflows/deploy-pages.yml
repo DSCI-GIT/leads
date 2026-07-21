@@ -35,7 +35,7 @@ jobs:
         run: |
           rm -rf _site
           mkdir _site
-          cp index.html 404.html leads.json leads.csv manifest.json robots.txt .nojekyll _site/
+          cp index.html sc3d.html 404.html leads.json leads.csv sc3d_leads.json sc3d_leads.csv manifest.json robots.txt .nojekyll _site/
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
