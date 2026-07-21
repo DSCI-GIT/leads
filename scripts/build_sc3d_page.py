@@ -49,7 +49,7 @@ def replace_block(html: str, script_id: str, payload: object) -> str:
         rf'(<script id="{re.escape(script_id)}" type="application/json">)(.*?)(</script>)',
         flags=re.DOTALL,
     )
-    updated, count = pattern.subn(r"\1" + data + r"\3", html, count=1)
+    updated, count = pattern.subn(lambda match: match.group(1) + data + match.group(3), html, count=1)
     if count != 1:
         raise RuntimeError(f"Could not replace {script_id}")
     return updated

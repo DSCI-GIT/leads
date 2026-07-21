@@ -28,7 +28,7 @@ def main() -> None:
         # Prevent a company string from accidentally closing the script element.
         embedded = embedded.replace("</", "<\\/")
         html = target.read_text(encoding="utf-8")
-        updated, count = PATTERN.subn(r"\1" + embedded + r"\3", html, count=1)
+        updated, count = PATTERN.subn(lambda match: match.group(1) + embedded + match.group(3), html, count=1)
         if count != 1:
             raise RuntimeError(f"Could not locate embeddedData block in {target}")
         target.write_text(updated, encoding="utf-8", newline="\n")
