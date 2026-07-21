@@ -86,6 +86,20 @@ def main() -> None:
         html = html.replace(old, new)
 
     html = re.sub(
+        r":root\{[^}]+\}",
+        ":root{--navy:#111827;--navy2:#312e81;--ink:#14151f;--muted:#687083;--line:#dddaf0;--bg:#f6f4ff;--card:#fff;--cyan:#7c3aed;--cyan2:#5b21b6;--orange:#14b8a6;--danger:#bd3d42;--warn:#8a5a10;--success:#23734d;--shadow:0 10px 30px rgba(49,46,129,.14);--radius:14px}",
+        html,
+        count=1,
+    )
+    html = html.replace(
+        "background:linear-gradient(110deg,var(--navy),var(--navy2));color:#fff;border-bottom:4px solid var(--cyan);box-shadow:0 5px 24px rgba(0,0,0,.22)",
+        "background:linear-gradient(110deg,#111827 0%,#312e81 58%,#5b21b6 100%);color:#fff;border-bottom:4px solid var(--cyan);box-shadow:0 5px 24px rgba(49,46,129,.24)",
+    )
+    html = html.replace(
+        "background:rgba(255,255,255,.08)}.brand h1",
+        "background:rgba(124,58,237,.22)}.brand h1",
+    )
+    html = re.sub(
         r'<div class="brand"><div class="brand-mark">.*?</div><div><h1>Lead Intelligence</h1><small>.*?</small></div></div>',
         '<div class="brand"><div class="brand-mark">SC3D</div><div><h1>Lead Intelligence</h1><small>SplatCap3D · 3D digital twin market</small></div></div>',
         html,
